@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Andreas Drichoutis
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Associate Professor of Consumer Behavior
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Agricultural University of Athens
+  url: https://www.aua.gr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Agricultural Economics
+    institution: Agricultural University of Athens
     year: 2008
+  - course: MBA in Agribusiness Management
+    institution: Agricultural University of Athens
+    year: 2004
+  - course: BSc in Agricultural Economics and Rural Development
+    institution: Agricultural University of Athens
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,8 +70,16 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Andreas Drichoutis is an Associate Professor of Consumer Behavior. He received his undergraduate diploma in Agricultural Economics in 2002 and a postgraduate degree in Agribusiness Management (MBA) in 2004 from Agricultural University of Athens. In 2004, after spending a semester at Texas A&M University, he continued his studies in AUA pursuing a PhD which he completed in 2008.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Prior to joining the Department of Agricultural Economics at Agricultural University of Athens, he was a faculty member at the Department of Economics at University of Ioannina for 4 years. Based on IDEAS RePEc’s ranking list, he is currently ranked at the Top 10% of economists globally  and at the Top 4% of economists in Greece (this ranking takes into account only publications in the last 10 years, for authors registered with the RePEc Author Service).
+
+Dr. Drichoutis is or had been working for several EU and national projects. He has also worked as a consultant for the Food and Agriculture Organization of the United Nations as well as for a project funded by United Nations Entity for Gender Equality and Women Empowerment. His research interests are focused on, but not limited to, the economics of nutrition/obesity, contingent valuation and experimental auctions methods to elicit consumers’ valuations, choice under risk, inter-temporal decision making and applied demand analysis. Most of his research applies experimental economics methods to answer questions relevant for agricultural economists and decision scientists.
+
+He has published >50 peer reviewed papers in several scientific journals including  The Economic Journal, Experimental Economics, Journal of Economic Behavior and Organization, Journal of the Economic Science Association, Journal of Risk and Uncertainty, Journal of Behavioral and Experimental Economics, Journal of Economics & Management Strategy, Econometric Reviews, Journal of Applied Statistics, Journal of Economic Psychology, Judgement and Decision Making, Journal of Economic Surveys, Kyklos, American Journal of Agricultural Economics, European Review of Agricultural Economics, Food Policy, Economics Letters, Southern Economic Journal, Journal of Wine Economics, Economic Modelling, Empirical Economics  etc.
+
+His work has been cited at least 2,400 times in journals such as Science, Nature Human Behavior, Games and Economic Behavior, Experimental Economics, Economics Letters, Health Economics, Journal of Health Economics, Management Science, Experimental Economics, Journal of Economic Psychology, American Journal of Agricultural Economics, European Review of Agricultural Economics, Journal of Risk and Uncertainty etc.
+
+Dr. Drichoutis is a regular reviewer for many field journals like European Review of Agricultural Economics, American Journal of Agricultural Economics, Food Policy etc. as well as for experimental economics journals like the Journal of Economic Behavior and Organization, Journal of Behavioral and Experimental Economics, Journal of Economic Psychology etc. His verified reviewer profile can be found online at publons.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
