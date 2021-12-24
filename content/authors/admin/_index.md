@@ -47,8 +47,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/adrihout
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar # graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai #fas
   link: https://scholar.google.gr/citations?user=cpm9YSMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
@@ -56,6 +56,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://gr.linkedin.com/in/andreas-drichoutis-2954752
+#- icon: publons
+#  icon_pack: ''
+#  link: https://gr.linkedin.com/in/andreas-drichoutis-2954752  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
