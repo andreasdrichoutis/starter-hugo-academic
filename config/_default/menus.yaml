@@ -29,7 +29,7 @@ main:
     weight: 50
 
   - name: Experiments in Athens
-    url: '#expathens'
+    url: experimentsathens
     weight: 60
 
   - name: Link and resources
