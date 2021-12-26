@@ -55,27 +55,26 @@ title: Για φοιτητές...
 <ol>
  	<li>Γιακουμής Νικήτας (2021) Μια εμπειρική διερεύνηση της συμπεριφοράς των καταναλωτών ως προς τις σημάνσεις εμπρόσθιου πεδίου διατροφικής δήλωσης (σε εξέλιξη) </li>
     <li>Δουκέρη Δήμητρα-Γλυκερία (2021) Προσδιοριστικοί παράγοντες αγοράς προϊόντων από διαδικτυακά καταστήματα πριν και μετά την καραντίνα εν μέσω της πανδημίας COVID-19 (σε εξέλιξη)</li>
- 	<li>Κανταλή Ν. (2021) {{% staticref "ptixiakes/2021.Kantali.pdf" "newtab" %}}Προθυμία διακράτησης κρυπτονομισμάτων από τους καταναλωτές και ο ρόλος της αποδοχής τους ως μέσο συναλλαγής από τα καταστήματα πώλησης τροφίμων{{% /staticref %}} (Βαθμολόγηση: 10)
- 	<li>Αποστολόπουλος Γ. (2021) <a href="/ptixiakes/2021.Apostolopoulos.pdf" target="_blank" rel="noopener"><strong>Καινοφανή τρόφιμα, προτιμήσεις για κίνδυνο και νεοφοβία: Μια εμπειρική διερεύνηση</strong></a> (Βαθμολόγηση: 10)</li>
- 	<li>Κορακίτη Μ. (2021) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2021/07/2021.Korakiti.pdf" target="_blank" rel="noopener">Μη γραμμικές επιδράσεις σε γραμμικά και μη-γραμμικά υποδείγματα πιθανοτήτων: Μια εμπειρική εφαρμογή στην συμπεριφορά καταναλωτή γύρω από τα τρόφιμα</a> </strong>(Βαθμολόγηση: 10)</li>
- 	<li>Αμαράντου Α.-Μ. (2021) Καταναλωτική συμπεριφορά γονέων και παιδιών στην επιλογή παιδικού παγωτού. (Βαθμολόγηση: 8)</li>
- 	<li>Λάβδας Ε. (2021) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2021/02/2021.Lavdas.pdf" target="_blank" rel="noopener">Προσδιοριστικοί παράγοντες και προθυμία πληρωμής καταναλωτών για φρέσκα λαχανικά καλλιεργούμενα σε θαλάμους κάθετης καλλιέργειας (vertical farms) σε σούπερ μάρκετ</a></strong>. (Βαθμολόγηση: 9)</li>
- 	<li>Τσατσούλης Δ. (2021) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2021/03/2021.Tsatsoulis.pdf" target="_blank" rel="noopener">Μια εμπειρική διερεύνηση της μεταβολής των προτιμήσεων των καταναλωτών λόγω της επίδρασης του φαινομένου του δελεασμού (decoy effect) σε προϊόντα φρούτων και λαχανικών</a></strong>. (Βαθμολόγηση: 9,5)</li>
- 	<li>Τασούλη Τ. (2021) Το περιβαλλοντικό τέλος και άλλοι προσδιοριστικοί παράγοντες χρήσης πλαστικής σακούλας (σε εξέλιξη)</li>
+ 	<li>Κανταλή Ν. (2021) {{% staticref "ptixiakes/2021.Kantali.pdf" "newtab" %}}Προθυμία διακράτησης κρυπτονομισμάτων από τους καταναλωτές και ο ρόλος της αποδοχής τους ως μέσο συναλλαγής από τα καταστήματα πώλησης τροφίμων{{% /staticref %}}. (Βαθμολόγηση: 10)
+ 	<li>Αποστολόπουλος Γ. (2021) {{% staticref "ptixiakes/2021.Apostolopoulos.pdf" "newtab" %}}Καινοφανή τρόφιμα, προτιμήσεις για κίνδυνο και νεοφοβία: Μια εμπειρική διερεύνηση{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Κορακίτη Μ. (2021) {{% staticref "ptixiakes/2021.Korakiti.pdf" "newtab" %}}Μη γραμμικές επιδράσεις σε γραμμικά και μη-γραμμικά υποδείγματα πιθανοτήτων: Μια εμπειρική εφαρμογή στην συμπεριφορά καταναλωτή γύρω από τα τρόφιμα{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Αμαράντου Α.-Μ. (2021) Καταναλωτική συμπεριφορά γονέων και παιδιών στην επιλογή παιδικού παγωτού. (Βαθμολόγηση: 8)</li>
+ 	<li>Λάβδας Ε. (2021) {{% staticref "ptixiakes/2021.Lavdas.pdf" "newtab" %}}Προσδιοριστικοί παράγοντες και προθυμία πληρωμής καταναλωτών για φρέσκα λαχανικά καλλιεργούμενα σε θαλάμους κάθετης καλλιέργειας (vertical farms) σε σούπερ μάρκετ{{% /staticref %}}. (Βαθμολόγηση: 9)</li>
+ 	<li>Τσατσούλης Δ. (2021) {{% staticref "ptixiakes/2021.Tsatsoulis.pdf" "newtab" %}}Μια εμπειρική διερεύνηση της μεταβολής των προτιμήσεων των καταναλωτών λόγω της επίδρασης του φαινομένου του δελεασμού (decoy effect) σε προϊόντα φρούτων και λαχανικών{{% /staticref %}}. (Βαθμολόγηση: 9,5)</li>
 </ol>
 
 <hr />
 
 <ol>
- 	<li>Παπαμιχαλόπουλος Α. (2020) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2020/10/2020.Papamichalopoulos.pdf" target="_blank" rel="noopener">Προσδιοριστικοί παράγοντες αποδοχής και προθυμία πληρωμής αποστάγματος παραγόμενο από ορό γάλακτος</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Αυδίκου Λ. (2020) Προθυμία πληρωμής καταναλωτών για ελαιόλαδο με ισχυρισμό υγείας. (Βαθμολόγηση: 9)</li>
- 	<li>Κωλέττη Δ. (2020) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2020/07/2020.Koletti.pdf" target="_blank" rel="noopener">Στάση και συμπεριφορά των καταναλωτών απέναντι στα ηλεκτρονικά σούπερ μάρκετ</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Γιώτης Θ. (2020) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2020/06/2020.Giotis.pdf" target="_blank" rel="noopener">Στάση και συμπεριφορά των καταναλωτών απέναντι σε τρόφιμα με πρωτεΐνη εντόμων</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Ρεγκούτα Ε. (2020) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2020/06/2020.Regouta.pdf" target="_blank" rel="noopener">Έρευνα αγοράς για την καταναλωτική αποδοχή κρασιών με ετικέτα Γεωπονικού Πανεπιστημίου Αθηνών</a></strong>. (Βαθμολόγηση: 9,5)</li>
- 	<li>Ελευθερούδη Μ. (2020) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2020/04/2020.Eleftheroudi.pdf" target="_blank" rel="noopener">Προθυμία πληρωμής παραγωγών βάμβακος για εντομοκτόνα φάρμακα</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Τσιρικοπούλου Α. (2020) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2020/02/2020.Tsirikopoulou.pdf" target="_blank" rel="noopener">Σχολικός εκφοβισμός, παιδική παχυσαρκία και διατροφική συμπεριφορά</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Μαρκάκη Φ. (2020) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2020/01/2020.Markaki.pdf" target="_blank" rel="noopener">Επίδραση του τύπου του πώματος στους γυάλινους περιέκτες οίνων στην προθυμία πληρωμής των καταναλωτών κρασιού</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Μαναρίτσα Β.-Δ. (2020) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2020/01/2020.Manaritsa.pdf" target="_blank" rel="noopener">Αποδοχή και στάσεις των καταναλωτών απέναντι σε εργαστηριακά κατασκευασμένο κρέας</a></strong>. (Βαθμολόγηση: 10)</li>
+ 	<li>Παπαμιχαλόπουλος Α. (2020) {{% staticref "ptixiakes/2020.Papamichalopoulos.pdf" "newtab" %}}Προσδιοριστικοί παράγοντες αποδοχής και προθυμία πληρωμής αποστάγματος παραγόμενο από ορό γάλακτος{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Αυδίκου Λ. (2020) Προθυμία πληρωμής καταναλωτών για ελαιόλαδο με ισχυρισμό υγείας. (Βαθμολόγηση: 9)</li>
+ 	<li>Κωλέττη Δ. (2020) {{% staticref "ptixiakes/2020.Koletti.pdf" "newtab" %}}Στάση και συμπεριφορά των καταναλωτών απέναντι στα ηλεκτρονικά σούπερ μάρκετ{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Γιώτης Θ. (2020) {{% staticref "ptixiakes/2020.Giotis.pdf" "newtab" %}}Στάση και συμπεριφορά των καταναλωτών απέναντι σε τρόφιμα με πρωτεΐνη εντόμων{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Ρεγκούτα Ε. (2020) {{% staticref "ptixiakes/2020.Regouta.pdf" "newtab" %}}Έρευνα αγοράς για την καταναλωτική αποδοχή κρασιών με ετικέτα Γεωπονικού Πανεπιστημίου Αθηνών{{% /staticref %}}. (Βαθμολόγηση: 9,5)</li>
+ 	<li>Ελευθερούδη Μ. (2020) {{% staticref "ptixiakes/2020.Eleftheroudi.pdf" "newtab" %}}Προθυμία πληρωμής παραγωγών βάμβακος για εντομοκτόνα φάρμακα{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Τσιρικοπούλου Α. (2020) {{% staticref "ptixiakes/2020.Tsirikopoulou.pdf" "newtab" %}}Σχολικός εκφοβισμός, παιδική παχυσαρκία και διατροφική συμπεριφορά{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Μαρκάκη Φ. (2020) {{% staticref "ptixiakes/2020.Markaki.pdf" "newtab" %}}Επίδραση του τύπου του πώματος στους γυάλινους περιέκτες οίνων στην προθυμία πληρωμής των καταναλωτών κρασιού{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Μαναρίτσα Β.-Δ. (2020) {{% staticref "ptixiakes/2020.Manaritsa.pdf" "newtab" %}}Αποδοχή και στάσεις των καταναλωτών απέναντι σε εργαστηριακά κατασκευασμένο κρέας{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
 </ol>
 
 <hr />
@@ -83,65 +82,70 @@ title: Για φοιτητές...
 <ol>
  	<li>Ζερκούλης Δ. (2019) Έρευνα αγοράς για συνήθειες κατανάλωσης αποξηραμένων σύκων και προθυμία πληρωμής. (Βαθμολόγηση: 9)</li>
  	<li>Γεωργίου Μ. (2019) Προσδιοριστικοί παράγοντες αποδοχής γενετικά τροποποιημένων τροφίμων. (Βαθμολόγηση: 7)</li>
- 	<li>Παπαδοπούλου Ε. (2019) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2019/06/2019.Papadopoulou.pdf" target="_blank" rel="noopener">Ο ρόλος της χώρας προέλευσης και η στάση των καταναλωτών απέναντι σε προϊόν σοκολάτας δίκαιου εμπορίου</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Μπιρμπίλη Ε. (2019) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2019/06/2019.Birbili.pdf" target="_blank" rel="noopener">Προσδιοριστικοί παράγοντες στάσεων και απόψεων πολιτών απέναντι στη νομιμοποίηση και χρήση φαρμακευτικής κάνναβης</a></strong>. (Βαθμολόγηση: 9,5)</li>
- 	<li>Μαρίγκου Ρ. (2019) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2019/05/2019.Marigkou_opt.pdf" target="_blank" rel="noopener">Προσδιοριστικοί παράγοντες αποδοχής και προθυμίας πληρωμής μπλε κρασιού</a></strong>. (Βαθμολόγηση: 10)</li>
+ 	<li>Παπαδοπούλου Ε. (2019) {{% staticref "ptixiakes/2019.Papadopoulou.pdf" "newtab" %}}Ο ρόλος της χώρας προέλευσης και η στάση των καταναλωτών απέναντι σε προϊόν σοκολάτας δίκαιου εμπορίου{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Μπιρμπίλη Ε. (2019) {{% staticref "ptixiakes/2019.Birbili.pdf" "newtab" %}}Προσδιοριστικοί παράγοντες στάσεων και απόψεων πολιτών απέναντι στη νομιμοποίηση και χρήση φαρμακευτικής κάνναβης{{% /staticref %}}. (Βαθμολόγηση: 9,5)</li>
+ 	<li>Μαρίγκου Ρ. (2019) {{% staticref "ptixiakes/2019.Marigkou.pdf" "newtab" %}}Προσδιοριστικοί παράγοντες αποδοχής και προθυμίας πληρωμής μπλε κρασιού{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
 </ol>
 
 <hr />
 
 <ol>
- 	<li>Βιτωράτος Η. (2018) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2018/03/2018.Vitoratos.pdf" target="_blank" rel="noopener">Προθυμία πληρωμής παραγωγών αμπέλου για μυκητοκτόνα φάρμακα στον νομό Κορινθίας</a></strong>.  (Βαθμολόγηση: 10)</li>
- 	<li>Σταμούλης Σ. (2018) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2018/03/2018.Stamoulis.pdf" target="_blank" rel="noopener">Προθυμία πληρωμής καταναλωτή για ειδικές κατηγορίες τομάτας και η επίδραση της συσκευασίας</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Κουτσαυτάκης Γ. (2018) <a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2018/03/2018.Koutsautakis.pdf" target="_blank" rel="noopener"><strong>Προθυμίας πληρωμής για τσίπουρο αρωματισμένο με ρινίσματα δρυός και ο ρόλος της γευστικής δοκιμής</strong>.</a> (Βαθμολόγηση: 9)</li>
+ 	<li>Βιτωράτος Η. (2018) {{% staticref "ptixiakes/2018.Vitoratos.pdf" "newtab" %}}Προθυμία πληρωμής παραγωγών αμπέλου για μυκητοκτόνα φάρμακα στον νομό Κορινθίας{{% /staticref %}}.  (Βαθμολόγηση: 10)</li>
+ 	<li>Σταμούλης Σ. (2018) {{% staticref "ptixiakes/2018.Stamoulis.pdf" "newtab" %}}Προθυμία πληρωμής καταναλωτή για ειδικές κατηγορίες τομάτας και η επίδραση της συσκευασίας{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Κουτσαυτάκης Γ. (2018) {{% staticref "ptixiakes/2018.Koutsautakis.pdf" "newtab" %}}Προθυμίας πληρωμής για τσίπουρο αρωματισμένο με ρινίσματα δρυός και ο ρόλος της γευστικής δοκιμής{{% /staticref %}}. (Βαθμολόγηση: 9)</li>
 </ol>
 
 <hr />
 
 <ol>
- 	<li>Πάτσο Α. (2017) <strong><a href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2017/11/2017.Patso_.pdf" target="_blank" rel="noopener">Προσδιοριστικοί παράγοντες που επηρεάζουν την καταβολή φιλοδώρηματος σε χώρο εστίασης</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Πέτρου Ν. (2017) <strong><a title="Η επίδραση διαφόρων χαρακτηριστικών στην προθυμία πληρωμής για μέλι: Αποτελέσματα από ένα πείραμα επιλογής" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2017/04/2017.Petrou.pdf" target="_blank" rel="noopener">Η επίδραση διαφόρων χαρακτηριστικών στην προθυμία πληρωμής για μέλι: Αποτελέσματα από ένα πείραμα επιλογής</a></strong>. (Βαθμολόγηση: 10)</li>
+ 	<li>Πάτσο Α. (2017) {{% staticref "ptixiakes/2017.Patso.pdf" "newtab" %}}Προσδιοριστικοί παράγοντες που επηρεάζουν την καταβολή φιλοδώρηματος σε χώρο εστίασης{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Πέτρου Ν. (2017) {{% staticref "ptixiakes/2017.Petrou.pdf" "newtab" %}}Η επίδραση διαφόρων χαρακτηριστικών στην προθυμία πληρωμής για μέλι: Αποτελέσματα από ένα πείραμα επιλογής{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
 </ol>
 
 <hr />
 
 <ol>
- 	<li>Πετράκης Ε. (2016) <strong><a title="Διαχρονική σταθερότητα προτιμήσεων υπό κίνδυνο και διαχρονικών προτιμήσεων" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/10/2016.Petrakis.pdf" target="_blank" rel="noopener">Διαχρονική σταθερότητα προτιμήσεων υπό κίνδυνο και διαχρονικών προτιμήσεων</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Καράλλης Χ. (2016) <strong><a title="Η δαπάνη χρόνου προς διάφορες δραστηριότητες ως προσδιοριστικός παράγοντας της υγείας: Δεδομένα από την ελληνική Έρευνα Χρήσης Χρόνου" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/09/2016.Karalis.pdf" target="_blank" rel="noopener">Η δαπάνη χρόνου προς διάφορες δραστηριότητες ως προσδιοριστικός παράγοντας της υγείας: Δεδομένα από την ελληνική Έρευνα Χρήσης Χρόνου</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Σκουλικαρίτη Γ. (2016) <strong><a title="Δείκτες Μεσογειακής διατροφής και υγεία: Μια πειραματική προσέγγιση" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/09/2016.Skoulikariti.pdf" target="_blank" rel="noopener">Δείκτες Μεσογειακής διατροφής και υγεία: Μια πειραματική προσέγγιση</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Κεχαγιά Β. (2016) <strong><a title="Επίδραση οσφρητικών παραγόντων στην προθυμία πληρωμής των καταναλωτών και στη συμπεριφορά τους υπό κίνδυνο" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/04/2016.Kechagia.pdf" target="_blank" rel="noopener">Επίδραση οσφρητικών παραγόντων στην προθυμία πληρωμής των καταναλωτών και στη συμπεριφορά τους υπό κίνδυνο</a></strong>. (Βαθμολόγηση: 10, Δημοσιεύτηκε στο <span style="color: #0000ff;"><a title="The effect of olfactory sensory cues on willingness to pay and choice under risk" href="https://doi.org/10.1016/j.socec.2017.07.005" target="_blank" rel="noopener"><span style="color: #0000ff;">Journal of Behavioral and Experimental Economics</span></a></span>)</li>
- 	<li>Κίτσης Β. (2016) <strong><a title="Προσδιοριστικοί παράγοντες προθυμίας πληρωμής για προϊόν νανοτεχνολογίας φυσικού χυμού" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/03/2016.Kitsis.pdf" target="_blank" rel="noopener">Προσδιοριστικοί παράγοντες προθυμίας πληρωμής για προϊόν νανοτεχνολογίας φυσικού χυμού</a></strong>. (Βαθμολόγηση: 10)</li>
- 	<li>Κώτσης Α. (2016) <strong><a title="Ζήτηση για προϊόν μοσχαρίσιου κρέατος με συσκευασία «έξυπνης» ετικέτας" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/03/2016.Kotsis.pdf" target="_blank" rel="noopener">Ζήτηση για προϊόν μοσχαρίσιου κρέατος με συσκευασία «έξυπνης» ετικέτας</a></strong>. (Βαθμολόγηση: 9,5)</li>
- 	<li>Πανουργιά Π. (2016) <strong><a title="Ζήτηση για διατροφικό προϊόν ενεργειακής μπάρας με βιομηχανική κάνναβη" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/03/2016.Panourgia.pdf" target="_blank" rel="noopener">Ζήτηση για διατροφικό προϊόν ενεργειακής μπάρας με βιομηχανική κάνναβη</a></strong>. (Βαθμολόγηση: 9)</li>
+ 	<li>Πετράκης Ε. (2016) {{% staticref "ptixiakes/2016.Petrakis.pdf" "newtab" %}}Διαχρονική σταθερότητα προτιμήσεων υπό κίνδυνο και διαχρονικών προτιμήσεων{{% /staticref %}}>. (Βαθμολόγηση: 10)</li>
+ 	<li>Καράλλης Χ. (2016) {{% staticref "ptixiakes/2016.Karalis.pdf" "newtab" %}}Η δαπάνη χρόνου προς διάφορες δραστηριότητες ως προσδιοριστικός παράγοντας της υγείας: Δεδομένα από την ελληνική Έρευνα Χρήσης Χρόνου{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Σκουλικαρίτη Γ. (2016) {{% staticref "ptixiakes/2016.Skoulikariti.pdf" "newtab" %}}Δείκτες Μεσογειακής διατροφής και υγεία: Μια πειραματική προσέγγιση{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Κεχαγιά Β. (2016) {{% staticref "ptixiakes/2016.Kechagia.pdf" "newtab" %}}Επίδραση οσφρητικών παραγόντων στην προθυμία πληρωμής των καταναλωτών και στη συμπεριφορά τους υπό κίνδυνο{{% /staticref %}}. (Βαθμολόγηση: 10, Δημοσιεύτηκε στο {{% staticref "https://doi.org/10.1016/j.socec.2017.07.005" "newtab" %}}Journal of Behavioral and Experimental Economicsο{{% /staticref %}}</li>
+ 	<li>Κίτσης Β. (2016) {{% staticref "ptixiakes/2016.Kitsis.pdf" "newtab" %}}Προσδιοριστικοί παράγοντες προθυμίας πληρωμής για προϊόν νανοτεχνολογίας φυσικού χυμού{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Κώτσης Α. (2016) {{% staticref "ptixiakes/2016.Kotsis.pdf" "newtab" %}}Ζήτηση για προϊόν μοσχαρίσιου κρέατος με συσκευασία «έξυπνης» ετικέτας{{% /staticref %}}. (Βαθμολόγηση: 9,5)</li>
+ 	<li>Πανουργιά Π. (2016) {{% staticref "ptixiakes/2016.Panourgia.pdf" "newtab" %}}Ζήτηση για διατροφικό προϊόν ενεργειακής μπάρας με βιομηχανική κάνναβη{{% /staticref %}}. (Βαθμολόγηση: 9)</li>
 </ol>
 
 <hr />
 
 <ol>
- 	<li>Λαγουδάκης Α. (2015) <a title="Η χώρα προέλευσης ως παράγοντας της ζήτησης για προϊόντα φραγκόσυκου" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/02/2015.Λαγουδάκης.pdf" target="_blank" rel="noopener"><strong>Η χώρα προέλευσης ως παράγοντας της ζήτησης για προϊόντα φραγκόσυκου</strong>.</a> (Βαθμολόγηση: 10)</li>
- 	<li>Δημητρόπουλος Α. (2015) <a title="Ζήτηση για προϊόντα αναψυκτικών βιοδιασπώμενης συσκευασίας" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/02/2015.Δημητρόπουλος.pdf" target="_blank" rel="noopener"><strong>Ζήτηση για προϊόντα αναψυκτικών βιοδιασπώμενης συσκευασίας</strong>.</a> (Βαθμολόγηση: 9,5)</li>
+ 	<li>Λαγουδάκης Α. (2015) {{% staticref "ptixiakes/2015.Lagoudakis.pdf" "newtab" %}}Η χώρα προέλευσης ως παράγοντας της ζήτησης για προϊόντα φραγκόσυκου{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
+ 	<li>Δημητρόπουλος Α. (2015) {{% staticref "ptixiakes/2015.Dimitropoulos.pdf" "newtab" %}}Ζήτηση για προϊόντα αναψυκτικών βιοδιασπώμενης συσκευασίας{{% /staticref %}}. (Βαθμολόγηση: 9,5)</li>
 </ol>
 
 <hr />
 
 <ol>
- 	<li>Χλιαουτάκη Χ. (2014) <a title="Ζήτηση για φράουλες με πιστοποίηση δίκαιων συνθηκών εργασίας" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/02/2014.Χλιαουτάκη.pdf" target="_blank" rel="noopener"><strong>Ζήτηση για φράουλες με πιστοποίηση δίκαιων συνθηκών εργασίας</strong>.</a> (Βαθμολόγηση: 10)</li>
+ 	<li>Χλιαουτάκη Χ. (2014) {{% staticref "ptixiakes/2014.Chliaoutaki.pdf" "newtab" %}}Ζήτηση για φράουλες με πιστοποίηση δίκαιων συνθηκών εργασίας{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
 </ol>
 
 <hr />
 
 <ol>
- 	<li>Παππά Β. (2012) <a title="Η διαφορά μεταξύ προθυμίας πληρωμής και προθυμίας αποδοχής στις μεθόδους έμμεσης και ενδεχόμενης αποτίμησης" href="http://drichoutis.freehostia.com/andreas/wp-content/uploads/2016/02/2012.Παππά.pdf" target="_blank" rel="noopener"><strong>Η διαφορά μεταξύ προθυμίας πληρωμής και προθυμίας αποδοχής στις μεθόδους έμμεσης και ενδεχόμενης αποτίμησης</strong>.</a> (Βαθμολόγηση: 10, Δημοσιεύτηκε στο <span style="color: #0000ff;"><a title="Elicitation formats and the WTP/WTA gap: A study of climate neutral foods" href="http://www.sciencedirect.com/science/article/pii/S0306919216300057" target="_blank" rel="noopener"><span style="color: #0000ff;">Food Policy</span></a></span>)</li>
+ 	<li>Παππά Β. (2012) {{% staticref "ptixiakes/2012.Pappa.pdf" "newtab" %}}Η διαφορά μεταξύ προθυμίας πληρωμής και προθυμίας αποδοχής στις μεθόδους έμμεσης και ενδεχόμενης αποτίμησης{{% /staticref %}}. (Βαθμολόγηση: 10, Δημοσιεύτηκε στο {{% staticref "http://www.sciencedirect.com/science/article/pii/S0306919216300057" "newtab" %}}Food Policy{{% /staticref %}}) </li>
 </ol>
-<h1><strong> Προυποθέσεις συστατικών επιστολών</strong></h1>
-Συστατικές επιστολές δίνονται <span style="text-decoration: underline;"><strong>μόνο</strong> </span>σε φοιτητές που έχω επιβλέψει την πτυχιακή τους διατριβή και η πτυχιακή τους έχει βαθμολογηθεί με βαθμό ≥9. Αυτό γίνεται γιατί:
-<ul>
- 	<li>Τα άτομα με τα οποία έχω συνεργαστεί κατά την εκπόνηση της διπλωματικής τους εργασίας τα γνωρίζω και μπορώ να εκφέρω άποψη γι' αυτά.</li>
- 	<li>Μπορώ να βεβαιώσω ότι ο φοιτητής έχει εφαρμόσει τους κανόνες της επιστημονικής μεθόδου και έχει αναπτύξει συγκεκριμένες δεξιότητες .</li>
- 	<li>Οι συστατικές επιστολές πρέπει να βεβαιώνουν τις ικανότητες του ατόμου που συστήνεται να πληρώσει μια θέση. Συστατικές επιστολές που παράγονται σε πληθώρα χάνουν το νόημα τους, σταδιακά απαξιώνεται αυτός που τις υπογράφει και στο τέλος δεν λαμβάνονται υπόψη. Ενδεικτικά, οι φοιτητές στους οποίους, κατά καιρούς, έχω δώσει συστατικές επιστολές έχουν γίνει δεκτοί για μεταπτυχιακές σπουδές στα: <em>University of Reading</em>, <em>University of Delaware</em>, <em>Michigan State University</em>, <em>University of Nebraska-Lincoln</em>, <em>University College London</em>, <em>Birkbeck College </em>(<em>University of London</em>), <em><em>Utrecht University, Koç University </em></em>καθώς και στα ΕΚΠΑ, ΟΠΑ, ΠΑΠΕΙ και ΠΙ.</li>
-</ul>
+
+<h2>2. Προυποθέσεις συστατικών επιστολών</h2>
+
+Συστατικές επιστολές δίνονται **μόνο** σε φοιτητές που έχω επιβλέψει την πτυχιακή τους διατριβή και η πτυχιακή τους έχει βαθμολογηθεί με βαθμό≥9,5. Αυτό γίνεται γιατί:
+
+- Τα άτομα με τα οποία έχω συνεργαστεί κατά την εκπόνηση της διπλωματικής τους εργασίας τα γνωρίζω και μπορώ να εκφέρω άποψη γι' αυτά.
+
+- Μπορώ να βεβαιώσω ότι ο φοιτητής έχει εφαρμόσει τους κανόνες της επιστημονικής μεθόδου και έχει αναπτύξει συγκεκριμένες δεξιότητες.
+
+- Οι συστατικές επιστολές πρέπει να βεβαιώνουν τις ικανότητες του ατόμου που συστήνεται να πληρώσει μια θέση. Συστατικές επιστολές που παράγονται σε πληθώρα χάνουν το νόημα τους, σταδιακά απαξιώνεται αυτός που τις υπογράφει και στο τέλος δεν λαμβάνονται υπόψη. Ενδεικτικά, οι φοιτητές στους οποίους, κατά καιρούς, έχω δώσει συστατικές επιστολές έχουν γίνει δεκτοί για μεταπτυχιακές σπουδές στα: <em>University of Reading</em>, <em>University of Delaware</em>, <em>Michigan State University</em>, <em>University of Nebraska-Lincoln</em>, <em>University College London</em>, <em>Birkbeck College </em>(<em>University of London</em>), <em><em>Utrecht University, Koç University </em></em>καθώς και στα ΕΚΠΑ, ΟΠΑ, ΠΑΠΕΙ και ΠΙ.
+
 Μόνη εξαίρεση για να δοθεί συστατική επιστολή σε φοιτητή που δεν έχω επιβλέψει στην πτυχιακή του διατριβή,  θα είναι η περίπτωση να έχει βαθμολογηθεί σε δύο τουλάχιστον μαθήματα μου με βαθμό ≥9.
-<h1><strong> Μεταπτυχιακά  προγράμματα σπουδών στο εξωτερικό</strong></h1>
+
+<h2>3. Μεταπτυχιακά  προγράμματα σπουδών στο εξωτερικό</h2>
 <ul>
  	<li>Post graduate studies in <a href="https://www.behavioraleconomics.com/resources/be-grad-programs/" target="_blank" rel="noopener">Behavioural Economics, Economic Psychology or Decision Science</a></li>
  	<li>Παγκόσμια Κατάταξη τμημάτων <a href="https://ideas.repec.org/top/top.agecon.html" target="_blank" rel="noopener">Αγροτικής Οικονομίας</a>. Κάθε τμήμα λειτουργεί και αντίστοιχο πρόγραμμα μεταπτυχιακών σπουδών. Κυρίως θα βρείτε μεταπτυχιακά στις ΗΠΑ καθώς αυτά κατατάσσονται ψηλά στην λίστα.</li>
