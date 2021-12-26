@@ -33,11 +33,11 @@ main:
     weight: 60
 
   - name: Link and resources
-    url: '#resources'
+    url: linksresources
     weight: 70
 
   - name: Για φοιτητές
-    url: '#students'
+    url: forstudents
     weight: 80
 
   - name: Contact
