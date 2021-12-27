@@ -6,7 +6,7 @@ title: A consistent econometric test for bid interdependence in repeated second-
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 - Panagiotis Lazaridis
 - Beom Su Park

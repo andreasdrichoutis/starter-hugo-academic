@@ -5,7 +5,7 @@ title: 'Determinants of demand for food in Greece: A microeconometric approach'
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 tags: []
 categories: []

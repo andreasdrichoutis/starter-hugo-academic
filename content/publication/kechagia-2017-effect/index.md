@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Varvara Kechagia
-- Andreas C Drichoutis
+- admin
 tags: []
 categories: []
 date: '2017-01-01'

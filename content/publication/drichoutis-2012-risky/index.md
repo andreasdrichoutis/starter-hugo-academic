@@ -5,7 +5,7 @@ title: When a risky prospect is valued more than its best possible outcome.
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 - Jayson L Lusk
 - Panagiotis Lazaridis

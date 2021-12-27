@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
-title: Experience
+title: Academic Affiliations
 subtitle:
 
 # Date format for experience
@@ -31,6 +31,24 @@ experience:
     date_end: ''
     description: Teaching microeconomics, econometrics, aplied microeconometrics, experimental economics.
 
+  - title: Adjunct Faculty
+    company: Hellenic Open University
+    company_url: 'https://www.eap.gr/'
+    #company_logo: org-x
+    location: ''
+    date_start: '2016-01-10'
+    date_end: ''
+    description: Teaching Economic Analysis (Microeconomics, Macroeconomics, Public Economics)
+
+  - title: Visting Scholar
+    company: Laboratoire d’Economie Appliquee de Grenoble, France
+    company_url: 'https://gael.univ-grenoble-alpes.fr/accueil-gael'
+    #company_logo: org-x
+    location: Grenoble, France
+    date_start: '2017-01-10'
+    date_end: '2017-01-25'
+   # description: Taught microeconomics, econometrics, aplied microeconometrics, experimental economics.
+
   - title: Assistant Professor of Consumer Behavior 
     company: Dept. of Agricultural Economics & Rural Development - Agricultural University of Athens
     company_url: 'http://www.aoa.aua.gr/'
@@ -48,7 +66,16 @@ experience:
     date_start: '2013-07-11'
     date_end: '2015-02-15'
     #description: Taught microeconomics, econometrics, aplied microeconometrics.
-        
+
+  - title: Visiting Scholar
+    company: Dept. of Agricultural Economics & Agribusiness - University of Arkansas
+    company_url: 'https://agribusiness.uark.edu/'
+    #company_logo: org-x
+    location: Fayeteville, Arkansas, USA
+    date_start: '2013-06-15'
+    date_end: '2013-07-15'
+    #description: Taught microeconomics, econometrics, aplied microeconometrics.
+
   - title: Lecturer of Applied Microeconometrics
     company: Dept. of Economics - University of Ioannina
     company_url: 'https://econ.uoi.gr/'

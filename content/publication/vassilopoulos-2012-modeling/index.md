@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Achilleas Vassilopoulos
 - Stathis Klonaris
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 tags: []
 categories: []

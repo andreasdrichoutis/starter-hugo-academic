@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Mary Yannakoulia
-- Andreas C Drichoutis
+- admin
 - Meropi D Kontogianni
 - Flora Magkanari
 tags: []

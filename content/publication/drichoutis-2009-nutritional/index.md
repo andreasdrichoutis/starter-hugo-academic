@@ -6,7 +6,7 @@ title: Nutritional Label Users’ Ability to Perform Nutrition Tasks as a Dietar
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga
 - Panagiotis Lazaridis
 tags: []

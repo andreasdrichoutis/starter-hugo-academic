@@ -7,12 +7,27 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
+
+  - name: Academic Affiliations
+    url: '#experience'
+    weight: 15  
+
+  - name: Journal Articles
     url: '#publications'
     weight: 20   
-  - name: Teaching
-    url: '#teach'
-    weight: 30     
+
+  #- name: Book chapters
+  #  url: '#bookchap'
+  #  weight: 25   
+    
+  - name: Work in progress
+    url: '#wpapers'
+    weight: 30   
+
+  #- name: Mimeos
+  #  url: '#mimeo'
+  #  weight: 35   
+
  # - name: Posts
  #   url: '#posts'
  #   weight: 20
@@ -21,13 +36,16 @@ main:
     weight: 40
  # - name: Talks
  #   url: '#talks'
- #   weight: 40
+ #   weight: 45
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/resume.pdf
     weight: 50
 
+  - name: Teaching
+    url: teaching
+    weight: 55  
   - name: Experiments in Athens
     url: experimentsathens
     weight: 60

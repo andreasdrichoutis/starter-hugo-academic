@@ -6,7 +6,7 @@ title: Do Good Things Come in Small Packages? Bottle Size Effects on Willingness
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Stathis Klonaris
 - Georgia S Papoutsi
 tags: []

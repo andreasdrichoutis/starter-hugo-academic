@@ -9,7 +9,7 @@ authors:
 - Georgia S Papoutsi
 - Rodolfo M Nayga Jr
 - Panagiotis Lazaridis
-- Andreas C Drichoutis
+- admin
 tags: []
 categories: []
 date: '2015-01-01'

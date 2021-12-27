@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Teresa Briz
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 tags: []
 categories: []

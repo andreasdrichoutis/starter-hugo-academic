@@ -6,11 +6,10 @@ title: 'Interpreting interaction terms in linear and non-linear models: A cautio
 subtitle: ''
 summary: ''
 authors:
-- Andreas Drichoutis
-- ' others'
+- admin
 tags: []
 categories: []
-date: '2011-01-01'
+date: '2011'
 lastmod: 2021-12-24T22:50:52+02:00
 featured: false
 draft: false
@@ -29,8 +28,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-24T20:50:51.519642Z'
-publication_types:
+publishDate: ''
+publication_types: 
 - '4'
 abstract: ''
 publication: '*Munich Personal RePEc Archive Working Paper*'

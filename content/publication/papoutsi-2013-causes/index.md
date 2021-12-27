@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Georgia S Papoutsi
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 tags: []
 categories: []

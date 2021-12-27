@@ -7,8 +7,8 @@ subtitle: ''
 summary: ''
 authors:
 - Lydia JR Lawless
-- AC Drichoutis
-- RM Nayga Jr
+- admin
+- Rodolfo M. Nayga, Jr.
 - Renee T Threlfall
 - Jean-François Meullenet
 tags: []

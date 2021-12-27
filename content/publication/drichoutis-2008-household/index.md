@@ -5,7 +5,7 @@ title: 'Household food consumption in Turkey: a comment'
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Stathis Klonaris
 - Panagiotis Lazaridis
 - Rodolfo M Nayga Jr

@@ -5,9 +5,9 @@ title: The veil of experimental currency units in second price auctions
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Jayson L Lusk
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr
 tags: []
 categories: []
 date: '2015-01-01'

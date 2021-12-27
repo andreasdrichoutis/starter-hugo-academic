@@ -6,7 +6,7 @@ title: Can Mediterranean diet really influence obesity? Evidence from propensity
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 - Rodolfo M Nayga Jr
 tags: []

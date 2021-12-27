@@ -9,8 +9,8 @@ authors:
 - Rodolfo M Nayga Jr
 tags: []
 categories: []
-date: '2013-01-01'
-lastmod: 2021-12-24T22:50:54+02:00
+date: '2013'
+lastmod: '' #2021-12-24T22:50:54+02:00
 featured: false
 draft: false
 
@@ -28,8 +28,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-24T20:50:53.772287Z'
-publication_types:
+publishDate: ''
+publication_types: 
 - '4'
 abstract: ''
 publication: '*Munich Personal RePEc Archive Paper*'

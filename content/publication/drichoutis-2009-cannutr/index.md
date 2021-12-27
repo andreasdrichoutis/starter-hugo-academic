@@ -5,7 +5,7 @@ title: Can nutritional label use influence body weight outcomes?
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 - Panagiotis Lazaridis
 tags: []

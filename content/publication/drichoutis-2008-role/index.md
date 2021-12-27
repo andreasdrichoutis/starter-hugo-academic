@@ -5,7 +5,7 @@ title: The role of reference prices in experimental auctions
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 - Rodolfo M Nayga Jr
 tags: []

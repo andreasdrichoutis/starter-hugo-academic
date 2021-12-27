@@ -5,7 +5,7 @@ title: The role of training in experimental auctions
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga
 - Panagiotis Lazaridis
 tags: []

@@ -5,7 +5,7 @@ title: Decision-making in Home-grown Value Auctions under Induced Mood States
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 - Stathis Klonaris
 tags: []

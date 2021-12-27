@@ -5,7 +5,7 @@ title: Do risk and time preferences have biological roots?
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 tags: []
 categories: []

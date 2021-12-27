@@ -6,7 +6,7 @@ title: 'Estimating risk attitudes in conventional and artefactual lab experiment
 subtitle: ''
 summary: ''
 authors:
-- Andreas Drichoutis
+- admin
 - Phoebe Koundouri
 tags: []
 categories: []

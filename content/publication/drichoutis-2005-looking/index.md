@@ -5,7 +5,7 @@ title: Who is Looking for Nutritional Food Labels?
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 - Rodolfo M Nayga Jr
 tags: []

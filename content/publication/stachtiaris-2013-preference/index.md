@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Spiros Stachtiaris
-- Andreas C Drichoutis
+- admin
 - Stathis Klonaris
 tags: []
 categories: []

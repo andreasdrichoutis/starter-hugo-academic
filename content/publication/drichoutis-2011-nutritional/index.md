@@ -5,13 +5,9 @@ title: Nutritional labeling.
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
-- RM Nayga Jr
+- admin
+- Rodolfo M. Nayga, Jr.
 - Panagiotis Lazaridis
-- JL Lusk
-- J Roosen
-- JF Shogren
-- ' others'
 tags: []
 categories: []
 date: '2011-01-01'
@@ -34,7 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-12-24T20:50:49.341120Z'
-publication_types:
+publication_types: 
 - '6'
 abstract: ''
 publication: '*The Oxford Handbook of the economics of food consumption and policy*'

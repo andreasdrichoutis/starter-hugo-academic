@@ -5,10 +5,10 @@ title: 'Food environment and childhood obesity: The effect of dollar stores'
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
-- Rodolfo M Nayga Jr
-- Heather L Rouse
-- Michael R Thomsen
+- admin
+- Rodolfo M. Nayga, Jr,
+- Heather L. Rouse
+- Michael R. Thomsen
 tags: []
 categories: []
 date: '2015-01-01'

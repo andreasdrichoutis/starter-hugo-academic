@@ -5,7 +5,7 @@ title: A model of nutrition information search with an application to food label
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 - Rodolfo M Nayga Jr
 tags: []

@@ -1,9 +1,10 @@
 ---
 # Display name
-title: Andreas Drichoutis
+title: Andreas C. Drichoutis
 
 # Is this the primary user of the site?
 superuser: true
+highlight_superuser: true.
 
 # Role/position/tagline
 role: Associate Professor of Consumer Behavior

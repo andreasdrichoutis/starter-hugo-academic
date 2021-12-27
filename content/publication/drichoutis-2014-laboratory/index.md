@@ -5,9 +5,9 @@ title: 'A Laboratory experiment for the estimation of health risks: Policy recom
 subtitle: ''
 summary: ''
 authors:
-- Andreas Drichoutis
+- admin
 - Phoebe Koundouri
-- K Remoundou
+- Kyriaki Remoundou
 tags: []
 categories: []
 date: '2014-01-01'

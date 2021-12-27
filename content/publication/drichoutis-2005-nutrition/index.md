@@ -5,7 +5,7 @@ title: Nutrition knowledge and consumer use of nutritional food labels
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 - Rodolfo M Nayga
 tags: []

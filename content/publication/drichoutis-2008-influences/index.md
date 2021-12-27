@@ -6,7 +6,7 @@ title: What influences tastes? An analysis of the determinants of consumers' dem
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 tags: []
 categories: []

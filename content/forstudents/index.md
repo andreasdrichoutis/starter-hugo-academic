@@ -105,10 +105,10 @@ title: Για φοιτητές...
 <hr />
 
 <ol>
- 	<li>Πετράκης Ε. (2016) {{% staticref "ptixiakes/2016.Petrakis.pdf" "newtab" %}}Διαχρονική σταθερότητα προτιμήσεων υπό κίνδυνο και διαχρονικών προτιμήσεων{{% /staticref %}}>. (Βαθμολόγηση: 10)</li>
+ 	<li>Πετράκης Ε. (2016) {{% staticref "ptixiakes/2016.Petrakis.pdf" "newtab" %}}Διαχρονική σταθερότητα προτιμήσεων υπό κίνδυνο και διαχρονικών προτιμήσεων{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
  	<li>Καράλλης Χ. (2016) {{% staticref "ptixiakes/2016.Karalis.pdf" "newtab" %}}Η δαπάνη χρόνου προς διάφορες δραστηριότητες ως προσδιοριστικός παράγοντας της υγείας: Δεδομένα από την ελληνική Έρευνα Χρήσης Χρόνου{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
  	<li>Σκουλικαρίτη Γ. (2016) {{% staticref "ptixiakes/2016.Skoulikariti.pdf" "newtab" %}}Δείκτες Μεσογειακής διατροφής και υγεία: Μια πειραματική προσέγγιση{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
- 	<li>Κεχαγιά Β. (2016) {{% staticref "ptixiakes/2016.Kechagia.pdf" "newtab" %}}Επίδραση οσφρητικών παραγόντων στην προθυμία πληρωμής των καταναλωτών και στη συμπεριφορά τους υπό κίνδυνο{{% /staticref %}}. (Βαθμολόγηση: 10, Δημοσιεύτηκε στο {{% staticref "https://doi.org/10.1016/j.socec.2017.07.005" "newtab" %}}Journal of Behavioral and Experimental Economicsο{{% /staticref %}}</li>
+ 	<li>Κεχαγιά Β. (2016) {{% staticref "ptixiakes/2016.Kechagia.pdf" "newtab" %}}Επίδραση οσφρητικών παραγόντων στην προθυμία πληρωμής των καταναλωτών και στη συμπεριφορά τους υπό κίνδυνο{{% /staticref %}}. (Βαθμολόγηση: 10, Δημοσιεύτηκε στο {{% staticref "https://doi.org/10.1016/j.socec.2017.07.005" "newtab" %}}Journal of Behavioral and Experimental Economics{{% /staticref %}}</li>
  	<li>Κίτσης Β. (2016) {{% staticref "ptixiakes/2016.Kitsis.pdf" "newtab" %}}Προσδιοριστικοί παράγοντες προθυμίας πληρωμής για προϊόν νανοτεχνολογίας φυσικού χυμού{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
  	<li>Κώτσης Α. (2016) {{% staticref "ptixiakes/2016.Kotsis.pdf" "newtab" %}}Ζήτηση για προϊόν μοσχαρίσιου κρέατος με συσκευασία «έξυπνης» ετικέτας{{% /staticref %}}. (Βαθμολόγηση: 9,5)</li>
  	<li>Πανουργιά Π. (2016) {{% staticref "ptixiakes/2016.Panourgia.pdf" "newtab" %}}Ζήτηση για διατροφικό προϊόν ενεργειακής μπάρας με βιομηχανική κάνναβη{{% /staticref %}}. (Βαθμολόγηση: 9)</li>

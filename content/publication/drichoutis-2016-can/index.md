@@ -5,7 +5,7 @@ title: What can multiple price lists really tell us about risk preferences?
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Jayson L Lusk
 tags: []
 categories: []

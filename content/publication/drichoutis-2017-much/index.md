@@ -5,8 +5,7 @@ title: How much do consumers care about farm labour exploitation?
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
-- ' others'
+- admin
 tags: []
 categories: []
 date: '2017-01-01'

@@ -5,7 +5,7 @@ title: Would consumers value food-away-from-home products with nutritional label
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 - Rodolfo M Nayga Jr
 tags: []

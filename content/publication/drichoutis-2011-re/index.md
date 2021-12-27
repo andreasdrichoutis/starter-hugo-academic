@@ -5,11 +5,10 @@ title: (Re) estimating marginal changes after “truncreg” and “tobit” in 
 subtitle: ''
 summary: ''
 authors:
-- Andreas Drichoutis
-- ' others'
+- admin
 tags: []
 categories: []
-date: '2011-01-01'
+date: ''
 lastmod: 2021-12-24T22:50:53+02:00
 featured: false
 draft: false
@@ -28,8 +27,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-24T20:50:52.254551Z'
-publication_types:
+publishDate: ''
+publication_types: 
 - '4'
 abstract: ''
 publication: ''

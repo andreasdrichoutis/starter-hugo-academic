@@ -5,7 +5,7 @@ title: "Consumers' use of nutritional labels: a review of research studies and i
 subtitle: ''
 summary: ''
 authors:
-- Andreas Drichoutis
+- admin
 - Panagiotis Lazaridis
 - Rodolfo M Nayga Jr
 tags: []

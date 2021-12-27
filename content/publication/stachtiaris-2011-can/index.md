@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Spiros Stachtiaris
-- Andreas C Drichoutis
+- admin
 - Stathis Klonaris
 - RM Nayga Jr
 tags: []
@@ -31,7 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2021-12-24T20:50:53.042861Z'
-publication_types:
+publication_types: 
 - '4'
 abstract: ''
 publication: ''

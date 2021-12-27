@@ -5,7 +5,7 @@ title: A theoretical and empirical investigation of nutritional label use
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 - Rodolfo M Nayga Jr
 - Maria Kapsokefalou

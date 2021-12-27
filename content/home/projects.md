@@ -1,9 +1,9 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: projects
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -29,14 +29,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Lab4Supply
+    tag: Lab4Supply
+  - name: AgriFoodBoost
+    tag: AgriFoodBoost
+ # - name: example
+ #   tag: example
+  - name: FairLabor
+    tag: FairLabor   
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -46,5 +50,5 @@ design:
   view: 2
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

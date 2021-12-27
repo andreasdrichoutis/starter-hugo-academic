@@ -9,13 +9,18 @@ authors:
 - Ji Yong Lee
 - Rodolfo M Nayga Jr
 - Cary Deck
-- Andreas C Drichoutis
+- admin
 tags: []
 categories: []
 date: '2020-01-01'
 lastmod: 2021-12-24T22:50:44+02:00
 featured: false
 draft: false
+links: 
+- name: Get PDF
+  url: https://doi.org/10.1002/ajae.12082
+- name: Data and Codes
+  url: https://osf.io/n4k68/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,5 +40,5 @@ publishDate: '2021-12-24T20:50:44.079902Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*American Journal of Agricultural Economics*'
+publication: '**American Journal of Agricultural Economics**'
 ---

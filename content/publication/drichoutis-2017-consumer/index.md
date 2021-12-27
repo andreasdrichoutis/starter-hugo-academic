@@ -5,7 +5,7 @@ title: Consumer preferences for fair labour certification
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Achilleas Vassilopoulos
 - Jayson L Lusk
 - Rodolfo M Nayga

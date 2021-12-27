@@ -6,13 +6,13 @@ title: 'Bribing to Queue-Jump: An experiment on cultural differences in bribing 
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Veronika Grimm
 - Alexandros Karakostas
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2021-12-24T22:50:57+02:00
+date: '2021'
+lastmod: 2021-12-24T22:50:56+02:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-24T20:50:56.803850Z'
-publication_types:
-- '2'
+publishDate: '2021-12-24T20:50:55.237264Z'
+publication_types: 
+- '3'
 abstract: ''
 publication: ''
 ---

@@ -5,7 +5,7 @@ title: Eliciting risk and time preferences under induced mood states
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 tags: []
 categories: []

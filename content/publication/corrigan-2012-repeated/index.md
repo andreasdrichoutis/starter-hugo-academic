@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Jay R Corrigan
-- Andreas C Drichoutis
+- admin
 - Jayson L Lusk
 - Rodolfo M Nayga
 - Matthew C Rousu

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Panagiotis Lazaridis
-- AC Drichoutis
+- admin
 tags: []
 categories: []
 date: '2005-01-01'

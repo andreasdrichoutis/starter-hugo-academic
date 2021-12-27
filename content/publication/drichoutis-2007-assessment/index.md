@@ -5,7 +5,7 @@ title: An assessment of product class involvement in food-purchasing behavior
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 - Rodolfo M Nayga Jr
 tags: []

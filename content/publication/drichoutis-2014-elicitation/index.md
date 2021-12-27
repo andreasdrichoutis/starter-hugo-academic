@@ -5,7 +5,7 @@ title: 'Elicitation formats and the WTA/WTP gap: A study of climate neutral food
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Jayson Lusk
 - Valentina Pappa
 tags: []

@@ -6,7 +6,7 @@ title: Judging statistical models of individual decision making under risk using
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Jayson L Lusk
 tags: []
 categories: []

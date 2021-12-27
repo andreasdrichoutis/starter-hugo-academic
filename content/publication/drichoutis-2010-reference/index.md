@@ -6,7 +6,7 @@ title: Do reference values matter? Some notes and extensions on “income and ha
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 - Panagiotis Lazaridis
 tags: []

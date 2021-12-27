@@ -6,7 +6,7 @@ title: Marginal changes in random parameters ordered response models with intera
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 tags: []
 categories: []

@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Achilleas Vassilopoulos
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 - Panagiotis Lazaridis
 tags: []

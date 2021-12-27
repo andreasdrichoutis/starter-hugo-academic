@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Achilleas Vassilopoulos
-- Andreas C Drichoutis
+- admin
 - Rodolfo Nayga
 tags: []
 categories: []
@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-12-24T20:50:55.237264Z'
 publication_types:
-- '2'
+- '3'
 abstract: ''
 publication: ''
 ---

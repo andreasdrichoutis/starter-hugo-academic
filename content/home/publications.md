@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 25
 
-title: Recent Publications
+title: Recent Journal Articles
 subtitle: ''
 
 content:
@@ -17,7 +17,7 @@ content:
   page_type: publication
 
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 6
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
@@ -26,7 +26,7 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '2'
     author: ''
     exclude_featured: true
 design:

@@ -6,7 +6,7 @@ title: 'Food away from home expenditures and obesity among older Europeans: are 
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Rodolfo M Nayga Jr
 - Panagiotis Lazaridis
 tags: []

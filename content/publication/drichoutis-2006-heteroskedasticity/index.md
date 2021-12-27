@@ -5,7 +5,7 @@ title: Heteroskedasticity, the single crossing property and ordered response mod
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
+- admin
 - Panagiotis Lazaridis
 - Rodolfo M Nayga Jr
 tags: []

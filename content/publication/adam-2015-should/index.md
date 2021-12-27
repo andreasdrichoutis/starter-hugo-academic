@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - Antonis Adam
-- Andreas C Drichoutis
+- admin
 - Maria Georgoula
 - Pantelis Kammas
 tags: []
 categories: []
-date: '2015-01-01'
+date: '2015'
 lastmod: 2021-12-24T22:50:55+02:00
 featured: false
 draft: false
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-24T20:50:54.469152Z'
+publishDate: ''
 publication_types:
 - '4'
 abstract: ''
