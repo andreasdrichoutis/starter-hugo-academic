@@ -50,10 +50,10 @@ Platforms, software and miscellanea for experiments:
 - [What statistical analysis should I use?](http://www.ats.ucla.edu/stat/stata/whatstat/default.htm)
 
 Pre-registration and open science:
-- (https://www.socialscienceregistry.org/)[AEA RCT registry]
-- (https://www.aspredicted.org/)[AsPredicted]
-- (https://osf.io/)[Open Science Framework]
-- (https://researchbox.org/)[ResearchBox]
+- [AEA RCT registry](https://www.socialscienceregistry.org/)
+- [AsPredicted](https://www.aspredicted.org/)
+- [Open Science Framework](https://osf.io/)
+- [ResearchBox](https://researchbox.org/)
 
 Miscellaneous:
 - [Applied Empirical Methods](https://github.com/paulgp/applied-methods-phd)
