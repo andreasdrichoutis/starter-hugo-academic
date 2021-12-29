@@ -25,7 +25,7 @@ content:
   # Better format for the See ALL journal publications page
   archive:
     enable: true
-    text: 'See all Journal Publications'
+    text: 'See All Publications'
     link: 'publication/#2'
   # Filter on criteria
   filters:

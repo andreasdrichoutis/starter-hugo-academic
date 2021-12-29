@@ -30,15 +30,15 @@ address:
   country: Greece
   country_code: GR
 map:
-  provider: 'mapnik'
+  provider: '' #mapnik
   api_key: ''
   zoom: 15
 coordinates:
   latitude: '37.983116'
   longitude: '23.702734'
-directions: Enter [Iasemidi building](https://www2.aua.gr/el/building/ktirio-iasemidi) and take the stairs to the 1st floor
+directions: # Enter [Iasemidi building](https://www2.aua.gr/el/building/ktirio-iasemidi) and take the stairs to the 1st floor
 office_hours:
-  - 'Open door policy'
+  #- 'Open door policy'
   #- 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 #contact_links:
