@@ -30,7 +30,7 @@ address:
   country: Greece
   country_code: GR
 map:
-  provider: 'google'
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
 coordinates:
@@ -144,10 +144,10 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-map:
-  provider: '2'
-  api_key: ''
-  zoom: 15
+#map:
+#  provider: '2'
+#  api_key: ''
+#  zoom: 15
 marketing:
   google_analytics: ''
   google_tag_manager: ''

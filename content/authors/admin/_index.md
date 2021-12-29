@@ -76,6 +76,8 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
 Andreas Drichoutis is an Associate Professor of Consumer Behavior. He received his undergraduate diploma in Agricultural Economics in 2002 and a postgraduate degree in Agribusiness Management (MBA) in 2004 from Agricultural University of Athens. In 2004, after spending a semester at Texas A&M University, he continued his studies in AUA pursuing a PhD which he completed in 2008.
@@ -90,4 +92,4 @@ Dr. Drichoutis is or had been working for several EU and national projects. He h
 
 Dr. Drichoutis is a regular reviewer for many field journals like European Review of Agricultural Economics, American Journal of Agricultural Economics, Food Policy etc. as well as for experimental economics journals like the Journal of Economic Behavior and Organization, Journal of Behavioral and Experimental Economics, Journal of Economic Psychology etc. His verified reviewer profile can be found online at [publons](https://publons.com/author/588377/andreas-drichoutis#profile).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
