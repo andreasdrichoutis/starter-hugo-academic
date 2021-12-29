@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2011-01-01'
@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:22.288041Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Econometric Reviews*'
+publication: '**Econometric Reviews**'
 ---

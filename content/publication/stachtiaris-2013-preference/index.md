@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:27.429910Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*European Review of Agricultural Economics*'
+publication: '**European Review of Agricultural Economics**'
 ---

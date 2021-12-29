@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:37.535512Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Food Policy*'
+publication: '**Food Policy**'
 ---

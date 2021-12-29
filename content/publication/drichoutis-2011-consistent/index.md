@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 - Panagiotis Lazaridis
 - Beom Su Park
 tags: []
@@ -35,5 +35,5 @@ publishDate: '2021-12-24T20:50:23.035183Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Atlantic Economic Journal*'
+publication: '**Atlantic Economic Journal**'
 ---

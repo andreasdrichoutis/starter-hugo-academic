@@ -7,7 +7,7 @@ summary: ''
 authors:
 - admin
 - Panagiotis Lazaridis
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2006-01-01'
@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:12.595562Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Economics Bulletin*'
+publication: '**Economics Bulletin**'
 ---

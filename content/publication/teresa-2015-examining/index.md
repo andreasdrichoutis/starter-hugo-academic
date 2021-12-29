@@ -34,5 +34,5 @@ publishDate: '2021-12-24T20:50:33.639182Z'
 publication_types: 
 - '2'
 abstract: ''
-publication: '*Agricultural and Food Economics*'
+publication: '**Agricultural and Food Economics**'
 ---

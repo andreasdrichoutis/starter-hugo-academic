@@ -5,8 +5,8 @@ title: A reconciliation of time preference elicitation methods
 subtitle: ''
 summary: ''
 authors:
-- Andreas C Drichoutis
-- Rodolfo M Nayga Jr
+- admin
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2013'

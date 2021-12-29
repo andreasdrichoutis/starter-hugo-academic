@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:26.714309Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Economics Discussion Paper*'
+publication: '**Economics: The Open-Access, Open-Assessment E-Journal,**'
 ---

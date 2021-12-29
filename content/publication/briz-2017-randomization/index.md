@@ -8,13 +8,18 @@ summary: ''
 authors:
 - Teresa Briz
 - admin
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2017-01-01'
 lastmod: 2021-12-24T22:50:41+02:00
 featured: false
 draft: false
+links: 
+- name: Get PDF
+  url: https://doi.org/10.1016/j.socec.2017.09.004
+#- name: Data and Codes
+#  url: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,6 +38,7 @@ projects: []
 publishDate: '2021-12-24T20:50:41.181554Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Journal of Behavioral and Experimental Economics*'
+publication: '**Journal of Behavioral and Experimental Economics**'
+
+abstract: In the experimental auctions literature, it is common practice to train subjects, who are often unfamiliar with the auction procedure, by conducting a few training (often hypothetical) auctions. Data from these practice auctions are rarely reported in scientific papers. We argue that valuable information can be garnered by looking at data coming from the training rounds of experimental auctions. We provide evidence that if we had neglected insights gained from the training auction data, we would not have been able to detect a failure of randomization to treatment that rendered us biased estimates of the true causal effects due to unobserved heterogeneity. As a case study, we use data from an experiment that seeks to elaborate on the mediating role of mood states on projection bias. Following a mood induction procedure, subjects are found to bid more under negative mood (as compared to positive mood) for products that are delivered in the future but bid less under negative mood for products that are delivered in present time. We show that information from the training auction rounds render the observed effect a biased estimate, which is likely a consequence of the failure of randomization to treatment.
 ---

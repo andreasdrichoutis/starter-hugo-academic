@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Rodolfo M. Nayga, Jr,
+- Rodolfo M. Nayga, Jr.
 - Heather L. Rouse
 - Michael R. Thomsen
 tags: []
@@ -34,5 +34,5 @@ publishDate: '2021-12-24T20:50:36.850859Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Health economics review*'
+publication: '**Health economics review**'
 ---

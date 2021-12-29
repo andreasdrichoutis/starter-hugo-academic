@@ -34,5 +34,5 @@ publishDate: '2021-12-24T20:50:19.998375Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of Human Nutrition and Dietetics*'
+publication: '**Journal of Human Nutrition and Dietetics**'
 ---

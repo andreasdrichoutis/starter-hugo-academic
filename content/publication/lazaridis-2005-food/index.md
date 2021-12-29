@@ -32,5 +32,5 @@ publishDate: '2021-12-24T20:50:50.785364Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*The food industry in Europe*'
+publication: '**The food industry in Europe**'
 ---

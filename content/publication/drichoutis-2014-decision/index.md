@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 - Stathis Klonaris
 tags: []
 categories: []
@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:31.245325Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Studies in Microeconomics*'
+publication: '**Studies in Microeconomics**'
 ---

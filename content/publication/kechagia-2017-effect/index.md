@@ -14,6 +14,9 @@ date: '2017-01-01'
 lastmod: 2021-12-24T22:50:41+02:00
 featured: false
 draft: false
+links: 
+- name: Get PDF
+  url: https://doi.org/10.1016/j.socec.2017.07.005
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,6 +35,8 @@ projects: []
 publishDate: '2021-12-24T20:50:40.420825Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Journal of Behavioral and Experimental Economics*'
+abstract: Several studies show that sensory cues influence consumer decision making processes. While scent is a key component of a market’s physical environment, it has received far less attention in the academic literature as compared, for example, with visual cues. In addition, most of the studies that examine the effect of ambient scents fail on one or both of these criteria; to properly control the influence of nuisance factors and/or to elicit preferences under real monetary incentives. We collected data from a laboratory experiment where we varied on a between subjects design the dispersion of a citrus fragrance. We then elicited subjects’ willingness to pay for two unbranded products — a mug and a chocolate — by having subjects participate in a 2nd price Vickrey auction. We also elicited subjects’ risk preferences using lottery choice tasks. Our results show a statistically and economically significant effect on subjects’ willingness to pay; valuations increased up to 49% for subjects who were exposed to a citrus scent as compared to the control group. We do not find a statistically significant effect of the citrus scent on subjects’ risk aversion.
+
+
+publication: '**Journal of Behavioral and Experimental Economics**'
 ---

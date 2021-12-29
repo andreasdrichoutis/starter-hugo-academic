@@ -7,13 +7,16 @@ summary: ''
 authors:
 - Achilleas Vassilopoulos
 - admin
-- Rodolfo Nayga
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2018-01-01'
 lastmod: 2021-12-24T22:50:56+02:00
 featured: false
 draft: false
+links: 
+- name: Get PDF
+  url: https://mpra.ub.uni-muenchen.de/85635/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -33,5 +36,5 @@ publishDate: '2021-12-24T20:50:55.237264Z'
 publication_types:
 - '3'
 abstract: ''
-publication: ''
+publication: (MPRA paper No 85635)
 ---

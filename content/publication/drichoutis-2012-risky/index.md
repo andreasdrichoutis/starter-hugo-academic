@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 - Jayson L Lusk
 - Panagiotis Lazaridis
 tags: []
@@ -34,5 +34,5 @@ publishDate: '2021-12-24T20:50:25.984152Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Judgment & Decision Making*'
+publication: '**Judgment & Decision Making**'
 ---

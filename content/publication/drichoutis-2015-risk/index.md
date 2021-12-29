@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2015-01-01'
@@ -32,5 +32,5 @@ publishDate: '2021-12-24T20:50:35.257582Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Southern Economic Journal*'
+publication: '**Southern Economic Journal**'
 ---

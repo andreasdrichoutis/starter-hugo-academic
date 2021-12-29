@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Rodolfo M Nayga
+- Rodolfo M. Nayga, Jr.
 - Panagiotis Lazaridis
 tags: []
 categories: []
@@ -34,5 +34,5 @@ publishDate: '2021-12-24T20:50:50.062866Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*Research Topics in Agricultural and Applied Economics*'
+publication: '**Research Topics in Agricultural and Applied Economics**'
 ---

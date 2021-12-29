@@ -8,7 +8,7 @@ summary: ''
 authors:
 - admin
 - Panagiotis Lazaridis
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2009-01-01'
@@ -34,5 +34,5 @@ publishDate: '2021-12-24T20:50:18.532715Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*The European Journal of Health Economics*'
+publication: '**The European Journal of Health Economics**'
 ---

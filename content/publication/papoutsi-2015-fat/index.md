@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Georgia S Papoutsi
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 - Panagiotis Lazaridis
 - admin
 tags: []
@@ -35,5 +35,5 @@ publishDate: '2021-12-24T20:50:34.454591Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of Economic Behavior & Organization*'
+publication: '**Journal of Economic Behavior & Organization**'
 ---

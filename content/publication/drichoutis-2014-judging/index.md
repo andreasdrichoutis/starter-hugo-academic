@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:32.118743Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*PloS one*'
+publication: '**PloS one**'
 ---

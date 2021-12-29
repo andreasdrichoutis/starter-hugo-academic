@@ -8,7 +8,7 @@ authors:
 - admin
 - Stathis Klonaris
 - Panagiotis Lazaridis
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2008-01-01'
@@ -34,5 +34,5 @@ publishDate: '2021-12-24T20:50:14.047142Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*European Review of Agricultural Economics*'
+publication: '**European Review of Agricultural Economics**'
 ---

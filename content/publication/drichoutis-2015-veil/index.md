@@ -7,7 +7,7 @@ summary: ''
 authors:
 - admin
 - Jayson L Lusk
-- Rodolfo M. Nayga, Jr
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2015-01-01'
@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:36.129533Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of the Economic Science Association*'
+publication: '**Journal of the Economic Science Association**'
 ---

@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:16.273276Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Agricultural Economics Review*'
+publication: '**Agricultural Economics Review**'
 ---

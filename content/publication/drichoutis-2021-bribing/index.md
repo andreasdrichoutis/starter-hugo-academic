@@ -15,6 +15,9 @@ date: '2021'
 lastmod: 2021-12-24T22:50:56+02:00
 featured: false
 draft: false
+links:
+- name: Get PDF
+  url: https://ideas.repec.org/p/pra/mprapa/102775.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -34,5 +37,5 @@ publishDate: '2021-12-24T20:50:55.237264Z'
 publication_types: 
 - '3'
 abstract: ''
-publication: ''
+publication: (MPRA Paper No 102775)
 ---

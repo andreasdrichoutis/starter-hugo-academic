@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:49.341120Z'
 publication_types: 
 - '6'
 abstract: ''
-publication: '*The Oxford Handbook of the economics of food consumption and policy*'
+publication: '**The Oxford Handbook of the economics of food consumption and policy**'
 ---

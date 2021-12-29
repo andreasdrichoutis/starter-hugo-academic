@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ji Yong Lee
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 - Cary Deck
 - admin
 tags: []
@@ -39,6 +39,7 @@ projects: []
 publishDate: '2021-12-24T20:50:44.079902Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: This paper examines what connection, if any, there is between cognitive ability and bidding strategy in second price auctions. Despite truthful revelations being a weakly dominant strategy, previous experiments have consistently observed overbidding, which makes the use of such auctions for inferring homegrown values problematic. Examining the effect of cognitive ability is important, as it may help identify when one can reliably recover values from observed bids. The results indicate that more cognitively able subjects behave in closer accordance with theory, and that cognitive ability partially explains heterogeneity in bidding behavior. Our results suggest that considering subjects' cognitive ability in homegrown valuation studies can help identify the true underlying demand conditions.
+
 publication: '**American Journal of Agricultural Economics**'
 ---

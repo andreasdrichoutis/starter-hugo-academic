@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 - Panagiotis Lazaridis
 tags: []
 categories: []
@@ -34,5 +34,5 @@ publishDate: '2021-12-24T20:50:20.784193Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of Economic Psychology*'
+publication: '**Journal of Economic Psychology**'
 ---

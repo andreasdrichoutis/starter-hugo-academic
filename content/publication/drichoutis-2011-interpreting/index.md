@@ -32,5 +32,5 @@ publishDate: ''
 publication_types: 
 - '4'
 abstract: ''
-publication: '*Munich Personal RePEc Archive Working Paper*'
+publication: '**Munich Personal RePEc Archive Working Paper**'
 ---

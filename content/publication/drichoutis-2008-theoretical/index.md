@@ -7,7 +7,7 @@ summary: ''
 authors:
 - admin
 - Panagiotis Lazaridis
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 - Maria Kapsokefalou
 - George Chryssochoidis
 tags: []
@@ -35,5 +35,5 @@ publishDate: '2021-12-24T20:50:15.507034Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*The European Journal of Health Economics*'
+publication: '**The European Journal of Health Economics**'
 ---

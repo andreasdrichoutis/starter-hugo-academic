@@ -43,5 +43,5 @@ publishDate: '2021-12-24T20:50:23.766779Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of Nutrition Education and Behavior*'
+publication: '**Journal of Nutrition Education and Behavior**'
 ---

@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:48.632609Z'
 publication_types:
 - '6'
 abstract: ''
-publication: '*Water Resources Management Sustaining Socio-Economic Welfare*'
+publication: '**Water Resources Management Sustaining Socio-Economic Welfare**'
 ---

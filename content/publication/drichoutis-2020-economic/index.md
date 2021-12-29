@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Rodolfo Nayga
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2020-01-01'

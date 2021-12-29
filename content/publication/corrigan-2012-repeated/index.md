@@ -8,9 +8,9 @@ summary: ''
 authors:
 - Jay R Corrigan
 - admin
-- Jayson L Lusk
-- Rodolfo M Nayga
-- Matthew C Rousu
+- Jayson L. Lusk
+- Rodolfo M. Nayga, Jr.
+- Matthew C. Rousu
 tags: []
 categories: []
 date: '2012-01-01'

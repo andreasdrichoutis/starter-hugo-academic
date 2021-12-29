@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Lydia Lawless
 - admin
-- Rodolfo M Nayga, Jr.
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2013-01-01'
@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:30.499545Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Agricultural and Food Economics*'
+publication: '**Agricultural and Food Economics**'
 ---

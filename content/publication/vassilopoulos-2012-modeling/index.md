@@ -35,5 +35,5 @@ publishDate: '2021-12-24T20:50:28.186547Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Economic Modelling*'
+publication: '**Economic Modelling**'
 ---

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Georgia S Papoutsi
 - admin
-- Rodolfo M Nayga Jr
+- Rodolfo M. Nayga, Jr.
 tags: []
 categories: []
 date: '2013-01-01'
@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:29.703749Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Journal of Economic Surveys*'
+publication: '**Journal of Economic Surveys**'
 ---
