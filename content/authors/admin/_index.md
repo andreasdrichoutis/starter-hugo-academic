@@ -57,6 +57,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://gr.linkedin.com/in/andreas-drichoutis-2954752
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 #- icon: publons
 #  icon_pack: ''
 #  link: https://gr.linkedin.com/in/andreas-drichoutis-2954752  

@@ -22,13 +22,18 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  # Better format for the See ALL journal publications page
+  archive:
+    enable: true
+    text: 'See all Journal Publications'
+    link: 'publication/#2'
   # Filter on criteria
   filters:
     tag: ''
     category: ''
     publication_type: '2'
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
