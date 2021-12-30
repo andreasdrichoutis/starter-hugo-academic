@@ -29,7 +29,7 @@ experience:
     location: Athens
     date_start: '2019-06-16'
     date_end: ''
-    description: Teaching microeconomics, econometrics, aplied microeconometrics, experimental economics.
+    #description: Teaching microeconomics, econometrics, aplied microeconometrics, experimental economics.
 
   - title: Adjunct Faculty
     company: Hellenic Open University
@@ -40,7 +40,7 @@ experience:
     date_end: ''
     description: Teaching Economic Analysis (Microeconomics, Macroeconomics, Public Economics)
 
-  - title: Visting Scholar
+  - title: Visiting Scholar
     company: Laboratoire d’Economie Appliquee de Grenoble, France
     company_url: 'https://gael.univ-grenoble-alpes.fr/accueil-gael'
     #company_logo: org-x
@@ -56,7 +56,7 @@ experience:
     location: Athens
     date_start: '2015-02-15'
     date_end: '2019-06-15'
-    description: Taught microeconomics, econometrics, aplied microeconometrics, experimental economics.
+    #description: Taught microeconomics, econometrics, aplied microeconometrics, experimental economics.
 
   - title: Lecturer of Food Economics
     company: Dept. of Agricultural Economics & Rural Development - Agricultural University of Athens
@@ -83,7 +83,7 @@ experience:
     location: Ioannina
     date_start: '2009-06-01'
     date_end: '2013-07-10'
-    description: Taught microeconomics, econometrics, aplied microeconometrics.
+    #description: Taught microeconomics, econometrics, aplied microeconometrics.
 
 design:
   columns: '2'
