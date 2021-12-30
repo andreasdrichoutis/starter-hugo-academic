@@ -7,13 +7,13 @@ At the [Department of Agricultural Economics and Rural Development](http://www.a
 
 In 2011 the lab moved to a different room than where was originally established, new equipment was purchased and everything was rebuild from scratch including desks with removable partitions. The relocation of the lab was facilitated by the late Leonidas Louloudis who at the time served as the vice rector of AUA.
 
-![lab2015](/lab/lab2015.jpg "An overview of the lab with partitions installed (circa 2015)")
+![lab2015](/lab/withpartitions.jpg "An overview of the lab with partitions installed (circa 2017)")
 
 At about the same time, we started operating an online recruitment software (ORSEE) in order to maximize control over recruitment and keep track of subjects’ history in experiment participation. Currently there are about 800 students registered in the database and 300 subjects from the general population.
 
 In 2017 computer infrastructure was replaced and the lab is now almost exclusively used for economic experiments since the majority of classroom activities was moved to a different room (although the lab is still shared with some classroom activities.)
 
-![lab2017](/lab/lab2017.jpg "Testing a zTree treatment in 25 newly acquired Dell Inspiron notebooks in April 2017")
+![lab2017](/lab/lab2017_smaller.jpg "Testing a zTree treatment in 25 newly acquired Dell Inspiron notebooks in April 2017")
 
 Since 2017, we operate an annual online survey (using Qualtrics) to the population of students registered in ORSEE (participation rate is approximately 50%) which elicits a wide range of student characteristics like decision style and decision approach measures, hypothetical risk and time preferences measures, measures of personality traits, cognitive ability measures, personality inventory and personality construct measures as well as incentivized risk and time preferences measures. This gives us the ability to link responses in experiments with a wide set of individual characteristics but also to invite subjects with specific characteristics in experiments.
 
