@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Ji Yong Lee
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 - Cary Deck
 - admin
 tags: []

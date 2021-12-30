@@ -8,7 +8,7 @@ authors:
 - Spiros Stachtiaris
 - admin
 - Stathis Klonaris
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2011-01-01'

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 - Heather L. Rouse
 - Michael R. Thomsen
 tags: []

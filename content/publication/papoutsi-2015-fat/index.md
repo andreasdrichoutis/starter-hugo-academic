@@ -6,8 +6,8 @@ title: Fat tax, subsidy or both? The role of information and children's pester p
 subtitle: ''
 summary: ''
 authors:
-- Georgia S Papoutsi
-- Rodolfo M. Nayga, Jr.
+- Georgia S. Papoutsi
+- Rodolfo M. Nayga Jr
 - Panagiotis Lazaridis
 - admin
 tags: []

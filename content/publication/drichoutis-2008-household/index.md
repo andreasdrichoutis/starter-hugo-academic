@@ -8,7 +8,7 @@ authors:
 - admin
 - Stathis Klonaris
 - Panagiotis Lazaridis
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2008-01-01'

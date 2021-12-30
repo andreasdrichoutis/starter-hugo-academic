@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Lydia Lawless
 - admin
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2013-01-01'

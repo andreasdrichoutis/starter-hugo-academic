@@ -8,7 +8,7 @@ summary: ''
 authors:
 - admin
 - Panagiotis Lazaridis
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2009-01-01'

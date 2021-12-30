@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Marina Nacka
 - admin
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2021'

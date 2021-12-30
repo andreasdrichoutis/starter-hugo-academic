@@ -7,7 +7,7 @@ summary: ''
 authors:
 - admin
 - Panagiotis Lazaridis
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 - Maria Kapsokefalou
 - George Chryssochoidis
 tags: []

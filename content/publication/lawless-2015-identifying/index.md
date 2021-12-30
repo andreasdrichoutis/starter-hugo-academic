@@ -6,10 +6,10 @@ title: Identifying Product Attributes and Consumer Attitudes that Impact Willing
 subtitle: ''
 summary: ''
 authors:
-- Lydia JR Lawless
+- Lydia J.R. Lawless
 - admin
-- Rodolfo M. Nayga, Jr.
-- Renee T Threlfall
+- Rodolfo M. Nayga Jr
+- Renee T. Threlfall
 - Jean-François Meullenet
 tags: []
 categories: []

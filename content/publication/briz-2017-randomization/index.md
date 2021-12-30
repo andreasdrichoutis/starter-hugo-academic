@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Teresa Briz
 - admin
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2017-01-01'

@@ -8,7 +8,7 @@ authors:
 - admin
 - Achilleas Vassilopoulos
 - Jayson L. Lusk
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2017-01-01'

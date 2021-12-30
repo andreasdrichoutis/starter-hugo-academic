@@ -9,7 +9,7 @@ authors:
 - Jay R Corrigan
 - admin
 - Jayson L. Lusk
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 - Matthew C. Rousu
 tags: []
 categories: []

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Jayson Lusk
+- Jayson L. Lusk
 - Valentina Pappa
 tags: []
 categories: []

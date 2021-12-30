@@ -6,7 +6,7 @@ title: 'The health-taste trade-off in consumer decision making for functional sn
 subtitle: ''
 summary: ''
 authors:
-- Georgia S Papoutsi
+- Georgia S. Papoutsi
 - Stathis Klonaris
 - admin
 tags: []

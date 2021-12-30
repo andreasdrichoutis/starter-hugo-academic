@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - admin
-- Jayson L Lusk
+- Jayson L. Lusk
 tags: []
 categories: []
 date: '2014-01-01'

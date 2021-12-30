@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Achilleas Vassilopoulos
 - admin
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2018-01-01'

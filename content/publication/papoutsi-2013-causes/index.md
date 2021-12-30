@@ -5,9 +5,9 @@ title: 'The causes of childhood obesity: a survey'
 subtitle: ''
 summary: ''
 authors:
-- Georgia S Papoutsi
+- Georgia S. Papoutsi
 - admin
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2013-01-01'

@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Achilleas Vassilopoulos
 - admin
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 - Panagiotis Lazaridis
 tags: []
 categories: []

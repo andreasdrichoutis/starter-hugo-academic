@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Maurizio Canavari
 - admin
-- Jayson L Lusk
-- Rodolfo M. Nayga, Jr.
+- Jayson L. Lusk
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2019-01-01'

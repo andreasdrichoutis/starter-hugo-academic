@@ -7,7 +7,7 @@ summary: ''
 authors:
 - admin
 - Jayson L Lusk
-- Rodolfo M. Nayga, Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2015-01-01'
