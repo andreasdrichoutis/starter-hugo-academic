@@ -3,7 +3,7 @@
 title: Laboratory of Behavioral and Experimental Economics Science (LaBEES-Athens)
 
 ---
-At the [Department of Agricultural Economics and Rural Development](http://www.aoa.aua.gr/) at [AUA](https://www.aua.gr) we operate a 25 seat experimental economics laboratory since 2006. The lab was first used for an auction experiment that was done in collaboration between Andreas Drihoutis, Panagiotis Lazaridis and Rudy Nayga in December 2006 which resulted in two publications: here and here. At the time, the lab was shared between classroom activities and experiments and some scheduling was required between competing activities.
+At the [Department of Agricultural Economics and Rural Development](http://www.aoa.aua.gr/) at [AUA](https://www.aua.gr) we operate a 25 seat experimental economics laboratory since 2006. The lab was first used for an auction experiment that was done in collaboration between Andreas Drihoutis, Panagiotis Lazaridis and Rudy Nayga in December 2006 which resulted in two publications: [here](https://doi.org/10.1016/j.econlet.2007.09.010) and [here](https://doi.org/10.1002/agr.20224). At the time, the lab was shared between classroom activities and experiments and some scheduling was required between competing activities.
 
 In 2011 the lab moved to a different room than where was originally established, new equipment was purchased and everything was rebuild from scratch including desks with removable partitions. The relocation of the lab was facilitated by the late Leonidas Louloudis who at the time served as the vice rector of AUA.
 
