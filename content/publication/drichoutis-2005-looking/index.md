@@ -33,5 +33,5 @@ publishDate: '2021-12-24T20:50:11.159368Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Eurochoices*'
+publication: '**Eurochoices**'
 ---

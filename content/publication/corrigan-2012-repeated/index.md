@@ -36,5 +36,5 @@ publishDate: '2021-12-24T20:50:24.469350Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*American Journal of Agricultural Economics*'
+publication: '**American Journal of Agricultural Economics**'
 ---

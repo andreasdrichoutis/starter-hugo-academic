@@ -32,5 +32,5 @@ publishDate: '2021-12-24T20:50:09.490446Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Global Business and Economics Review*'
+publication: '**Global Business and Economics Review**'
 ---
