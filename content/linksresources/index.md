@@ -27,6 +27,7 @@ Platforms, software and miscellanea for experiments:
  - [zTree with a Virtual Lab architecture](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3756019)
 
  Statistics, Econometrics, Scientific Writing etc.:
+- [Econ graphs: Intuitive interactive visualizations of key concepts in economics](https://www.econgraphs.org/)
 - [Color advice for graphs](https://colorbrewer2.org/#type=sequential&amp;scheme=BuGn&amp;n=3)
 - [formR](https://formr.org/)
 - [Library of Statistical Techniques - (LOST) {or how to run statistical models across R, Python, and STATA}](https://lost-stats.github.io/)
