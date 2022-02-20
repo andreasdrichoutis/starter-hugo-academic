@@ -31,6 +31,14 @@ experience:
     date_end: ''
     #description: Teaching microeconomics, econometrics, aplied microeconometrics, experimental economics.
 
+  - title: Fulbright Scholar
+    company: Dept. of Agricultural Economics, Texas A&M University
+    company_url: 'https://agecon.tamu.edu/'
+    #company_logo: org-x
+    location: College Station, TX, USA
+    date_start: '2022-02-28'
+    date_end: #'2022-05-27'
+
   - title: Adjunct Faculty
     company: Hellenic Open University
     company_url: 'https://www.eap.gr/'
@@ -39,6 +47,8 @@ experience:
     date_start: '2016-01-10'
     date_end: ''
     description: Teaching Economic Analysis (Microeconomics, Macroeconomics, Public Economics)
+
+
 
   - title: Visiting Scholar
     company: Laboratoire d’Economie Appliquee de Grenoble, France
