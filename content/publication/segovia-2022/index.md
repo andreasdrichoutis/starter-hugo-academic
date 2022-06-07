@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Visual formats in risk preference elicitation: What catches the eye?"
+title: 'Visual formats in risk preference elicitation: What catches the eye?'
 subtitle: ''
 summary: ''
 authors:
