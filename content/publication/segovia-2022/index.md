@@ -16,7 +16,7 @@ lastmod: 2022-06-07T22:50:56+02:00
 featured: false
 draft: false
 links: 
-#- name: Get PDF
+- name: Get PDF
   url: 
 
 # Featured image
