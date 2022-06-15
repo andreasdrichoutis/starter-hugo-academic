@@ -37,7 +37,7 @@ experience:
     #company_logo: org-x
     location: College Station, TX, USA
     date_start: '2022-02-28'
-    date_end: #'2022-05-27'
+    date_end: '2022-05-27'
 
   - title: Adjunct Faculty
     company: Hellenic Open University
