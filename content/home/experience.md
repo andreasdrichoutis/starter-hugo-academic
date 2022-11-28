@@ -31,6 +31,15 @@ experience:
     date_end: ''
     #description: Teaching microeconomics, econometrics, aplied microeconometrics, experimental economics.
 
+  - title: Associated Faculty 
+    company: Human Behavior Laboratory, Texas A&M University
+    company_url: 'https://hbl.tamu.edu/'
+    #company_logo: org-x
+    location: College Station, TX, USA
+    date_start: '2022-05-15'
+    date_end: ''
+    #description: Teaching microeconomics, econometrics, aplied microeconometrics, experimental economics.
+
   - title: Fulbright Scholar
     company: Dept. of Agricultural Economics, Texas A&M University
     company_url: 'https://agecon.tamu.edu/'
