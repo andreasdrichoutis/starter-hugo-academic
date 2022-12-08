@@ -44,7 +44,7 @@ permalinks:
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects] # http://user.it.uu.se/~justin/Hugo/post/hugo_module_fail/
-  section: [HTML, RSS]  #https://discourse.gohugo.io/t/site-works-on-netlify-but-not-locally-error-from-config/34614
+  section: [HTML, RSS]  #https://discourse.gohugo.io/t/site-works-on-netlify-but-not-locally-error-from-config/34614 : delete %TMP%\hugo_cache\
 imaging:
   resampleFilter: lanczos
   quality: 75
