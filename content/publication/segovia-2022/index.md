@@ -12,12 +12,12 @@ authors:
 tags: []
 categories: []
 date: '2022'
-lastmod: 2022-06-07T22:50:56+02:00
+lastmod: 2022-12-08T10:50:56+02:00
 featured: false
 draft: false
 links: 
 - name: Get PDF
-  url: 
+  url: https://mpra.ub.uni-muenchen.de/115572/
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
