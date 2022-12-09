@@ -11,8 +11,8 @@ authors:
 - Achilleas Vassilopoulos
 tags: []
 categories: []
-date: '2022-12-08'
-lastmod: 2022-12-08T22:50:34+02:00
+date: '2023-01-01'
+lastmod: 2023-01-01T22:50:34+02:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-12-08T20:50:33.639182Z'
+publishDate: '2023-01-01T20:50:33.639182Z'
 publication_types: 
 - '3'
 abstract: ''
