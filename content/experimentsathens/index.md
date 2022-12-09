@@ -36,4 +36,5 @@ Over the course of the years several AUA researchers are or have been affiliated
 - Kechagia, V. and Drichoutis A.C. (2017) The effect of olfactory sensory cues on willingness to pay and choice under risk.  Journal of Behavioral and Experimental Economics 70: 33-46.
 - Papoutsi, G., Klonaris, S. and Drichoutis, A.C. (2019) The health-taste trade-off in consumer decision making for functional snacks: An experimental approach. British Food Journal 123(5): 1645-1663.
 - Drichoutis, A.C. and Nayga, R.M. (2020) Economic rationality under cognitive load. The Economic Journal 130(632): 2382–2409.
-- Drichoutis, A.C. and Nayga, R.M., Jr. (2021)  On the stability of risk and time preferences amid the COVID-19 pandemic. Experimental Economics (forthcoming)
+- Drichoutis, A.C. and Nayga, R.M., Jr. (2021)  On the stability of risk and time preferences amid the COVID-19 pandemic. Experimental Economics 25: 759–794.
+- Drichoutis, A.C. and Nayga, R.M., Jr. (2022) Game form recognition in preference elicitation, cognitive abilities, and cognitive load. Journal of Economic Behavior & Organization 193: 49-65.
