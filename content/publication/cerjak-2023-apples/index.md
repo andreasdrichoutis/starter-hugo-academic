@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Marija Cerjak
-- Josip Juracak
-- Damir Kovacic
+- Josip Juračak
+- Damir Kovačić 
 - admin
 tags: []
 categories: []
