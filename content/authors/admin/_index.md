@@ -90,6 +90,6 @@ Dr. Drichoutis is or had been working for several EU and national projects. He h
 
 **His work has been cited at least 2,700 times** in journals such as Science, Nature Human Behavior, Games and Economic Behavior, Experimental Economics, Economics Letters, Health Economics, Journal of Health Economics, Management Science, Experimental Economics, Journal of Economic Psychology, American Journal of Agricultural Economics, European Review of Agricultural Economics, Journal of Risk and Uncertainty etc.
 
-Dr. Drichoutis is a regular reviewer for many field journals like European Review of Agricultural Economics, American Journal of Agricultural Economics, Food Policy etc. as well as for experimental economics journals like the Journal of Economic Behavior and Organization, Journal of Behavioral and Experimental Economics, Journal of Economic Psychology etc. His verified reviewer profile can be found online at [publons](https://publons.com/author/588377/andreas-drichoutis#profile).
+Dr. Drichoutis is a regular reviewer for many field journals like European Review of Agricultural Economics, American Journal of Agricultural Economics, Food Policy etc. as well as for experimental economics journals like the Journal of Economic Behavior and Organization, Journal of Behavioral and Experimental Economics, Journal of Economic Psychology etc. His verified reviewer profile can be found online at [Web of Science](https://www.webofscience.com/wos/author/record/472113).
 
 
