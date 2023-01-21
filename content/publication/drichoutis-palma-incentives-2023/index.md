@@ -5,11 +5,11 @@ title: 'Incentives and payment mechanisms in preference elicitation'
 subtitle: ''
 summary: ''
 authors:
-- Marco A. Palma
 - admin
+- Marco A. Palma
 tags: []
 categories: []
-date: '2022'
+date: '2023'
 lastmod: 2022-06-07T22:50:56+02:00
 featured: false
 draft: false
