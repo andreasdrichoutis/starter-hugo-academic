@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-07T20:50:55.237264Z'
+publishDate: '2023-01-01T20:50:55.237264Z'
 publication_types: 
 - '3'
 #abstract: 'We explore the effect of different presentation formats on elicitation of risk preferences using a popular probability-varying task (Holt and Laury, 2002) and a payoff-varying task (Drichoutis and Lusk, 2016). The presentation formats use horizontal bars that vary either the width or height of the bars (or both at the same time) to potentially help subjects in judging how large or small probabilities and monetary amounts are in a given choice task. These graphical formats are compared to a text only format. We complement our data collection with eye-tracking data that enriches our structural models with additional information regarding how visual attention and engagement vary with the presented information. While we find no statistically significant effects of presentation formats on elicited parameters for risk preferences, we find that eye-tracking information not only is associated with preference parameters, but it also changes the inferences with respect to which decision theory better fits our data.'
