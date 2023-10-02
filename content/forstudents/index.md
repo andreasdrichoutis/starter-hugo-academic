@@ -78,6 +78,21 @@ title: Για φοιτητές...
         outline: none;
     }
 </style>
+<!-- JavaScript Functionality -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const toggleButton = document.querySelector(".toggle-year");
+        const itemList = document.querySelector(".item-list");
+
+        toggleButton.addEventListener("click", function () {
+            if (itemList.style.display === "none" || itemList.style.display === "") {
+                itemList.style.display = "block"; // Show the list items
+            } else {
+                itemList.style.display = "none"; // Hide the list items
+            }
+        });
+    });
+</script>
 <hr />
 
 <ol>
