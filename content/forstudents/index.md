@@ -51,37 +51,47 @@ title: Για φοιτητές...
 
 
 <h3><a name="thesis"></a>Πτυχιακές που έχουν ήδη εκπονηθεί ή είναι υπό εξέλιξη:</h3>
-<div class="year-buttons-container">
+<div class="year-section">
     <button class="toggle-year">2023</button>
-	<ol class="item-list">
-<li>Καδδάς Α. (2023) Συμπεριφορά καταναλωτή ως προς εναλλακτικές συσκευασίες οίνου.</li>
-<li>Πάτσου Α. (2023) Διερεύνηση προτιμήσεων και προθυμίας πληρωμής Ευρωπαίων καταναλωτών για premium συσκευασίες Ελληνικού εξαιρετικού παρθένου ελαιόλαδου. </li>
-<li>Κορακίτη Μ. (2023) Επίδραση ανθρωπομορφικών παραγόντων στις στάσεις, συμπεριφορά και προθυμίας πληρωμής των καταναλωτών για προϊόντα τροφίμων.</li>
-</ol>
-    <button class="toggle-year">2022</button>
-   <ol class="item-list">
-<li>Καδδάς Α. (2023) Συμπεριφορά καταναλωτή ως προς εναλλακτικές συσκευασίες οίνου.</li>
-<li>Πάτσου Α. (2023) Διερεύνηση προτιμήσεων και προθυμίας πληρωμής Ευρωπαίων καταναλωτών για premium συσκευασίες Ελληνικού εξαιρετικού παρθένου ελαιόλαδου. </li>
-<li>Κορακίτη Μ. (2023) Επίδραση ανθρωπομορφικών παραγόντων στις στάσεις, συμπεριφορά και προθυμίας πληρωμής των καταναλωτών για προϊόντα τροφίμων.</li>
-</ol>
+    <ol class="item-list">
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+    </ol>
 </div>
-<!-- CSS Styles -->
+
+<div class="year-section">
+    <button class="toggle-year">2022</button>
+    <ol class="item-list">
+        <li>Item A</li>
+        <li>Item B</li>
+        <li>Item C</li>
+    </ol>
+</div>
+
 <style>
-    /* CSS Styles for Toggle Buttons */
-    .year-buttons-container {
-        display: flex; /* Use flexbox to arrange buttons horizontally */
-        gap: 10px; /* Adjust the gap between buttons as needed */
-    }
+/* CSS Styles for Toggle Buttons */
+.year-section {
+    display: flex; /* Arrange buttons and lists horizontally */
+    flex-direction: column; /* Stack lists below buttons */
+    align-items: flex-start; /* Align items to the start of each container */
+    margin-bottom: 20px; /* Add margin between sections (adjust as needed) */
+}
 
-    .toggle-year {
-        background-color: #f0f0f0;
-        border: none;
-        cursor: pointer;
-        padding: 5px 10px;
-        outline: none;
-    }
+.toggle-year {
+    background-color: #f0f0f0;
+    border: none;
+    cursor: pointer;
+    padding: 5px 10px;
+    outline: none;
+}
+
+/* CSS Styles for Item Lists */
+.item-list {
+    display: none; /* Initially hide the lists */
+    padding-left: 20px;
+}
 </style>
-
 
 <div class="year-section">
     <button class="toggle-year">2023</button>
