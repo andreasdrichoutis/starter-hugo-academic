@@ -81,15 +81,17 @@ title: Για φοιτητές...
 <!-- JavaScript Functionality -->
 <script>
     document.addEventListener("DOMContentLoaded", function () {
-        const toggleButton = document.querySelector(".toggle-year");
-        const itemList = document.querySelector(".item-list");
+        const toggleButtons = document.querySelectorAll(".toggle-year");
 
-        toggleButton.addEventListener("click", function () {
-            if (itemList.style.display === "none" || itemList.style.display === "") {
-                itemList.style.display = "block"; // Show the list items
-            } else {
-                itemList.style.display = "none"; // Hide the list items
-            }
+        toggleButtons.forEach(function (button) {
+            button.addEventListener("click", function () {
+                const itemList = this.nextElementSibling; // Get the next sibling, which is the item list
+                if (itemList.style.display === "none" || itemList.style.display === "") {
+                    itemList.style.display = "block"; // Show the list items
+                } else {
+                    itemList.style.display = "none"; // Hide the list items
+                }
+            });
         });
     });
 </script>
