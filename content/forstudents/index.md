@@ -51,52 +51,6 @@ title: Για φοιτητές...
 
 
 <h3><a name="thesis"></a>Πτυχιακές που έχουν ήδη εκπονηθεί ή είναι υπό εξέλιξη:</h3>
-<div class="year-buttons-container">
-    <div class="year-section">
-        <button class="toggle-year">2023</button>
-        <ol class="item-list">
-            <li>Item 1</li>
-            <li>Item 2</li>
-            <li>Item 3</li>
-        </ol>
-    </div>
-
-    <div class="year-section">
-        <button class="toggle-year">2022</button>
-        <ol class="item-list">
-            <li>Item A</li>
-            <li>Item B</li>
-            <li>Item C</li>
-        </ol>
-    </div>
-</div>
-
-<style>
-/* CSS Styles for Toggle Buttons Container */
-.year-buttons-container {
-    display: flex; /* Arrange buttons horizontally */
-    flex-wrap: wrap; /* Allow wrapping to the next row if needed */
-}
-
-/* CSS Styles for Toggle Buttons */
-.toggle-year {
-    background-color: #f0f0f0;
-    border: none;
-    cursor: pointer;
-    padding: 5px 10px;
-    outline: none;
-    margin-right: 10px; /* Add margin between buttons */
-}
-
-/* CSS Styles for Item Lists */
-.item-list {
-    display: none; /* Initially hide the lists */
-    padding-left: 20px;
-    clear: both; /* Ensure lists appear below buttons */
-}
-
-</style>
-
 <div class="year-section">
     <button class="toggle-year">2023</button>
 	<ol class="item-list">
