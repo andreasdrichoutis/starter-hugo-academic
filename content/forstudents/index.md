@@ -51,6 +51,38 @@ title: Για φοιτητές...
 
 
 <h3><a name="thesis"></a>Πτυχιακές που έχουν ήδη εκπονηθεί ή είναι υπό εξέλιξη:</h3>
+<div class="year-buttons-container">
+    <button class="toggle-year">2023</button>
+	<ol class="item-list">
+<li>Καδδάς Α. (2023) Συμπεριφορά καταναλωτή ως προς εναλλακτικές συσκευασίες οίνου.</li>
+<li>Πάτσου Α. (2023) Διερεύνηση προτιμήσεων και προθυμίας πληρωμής Ευρωπαίων καταναλωτών για premium συσκευασίες Ελληνικού εξαιρετικού παρθένου ελαιόλαδου. </li>
+<li>Κορακίτη Μ. (2023) Επίδραση ανθρωπομορφικών παραγόντων στις στάσεις, συμπεριφορά και προθυμίας πληρωμής των καταναλωτών για προϊόντα τροφίμων.</li>
+</ol>
+    <button class="toggle-year">2022</button>
+   <ol class="item-list">
+<li>Καδδάς Α. (2023) Συμπεριφορά καταναλωτή ως προς εναλλακτικές συσκευασίες οίνου.</li>
+<li>Πάτσου Α. (2023) Διερεύνηση προτιμήσεων και προθυμίας πληρωμής Ευρωπαίων καταναλωτών για premium συσκευασίες Ελληνικού εξαιρετικού παρθένου ελαιόλαδου. </li>
+<li>Κορακίτη Μ. (2023) Επίδραση ανθρωπομορφικών παραγόντων στις στάσεις, συμπεριφορά και προθυμίας πληρωμής των καταναλωτών για προϊόντα τροφίμων.</li>
+</ol>
+</div>
+<!-- CSS Styles -->
+<style>
+    /* CSS Styles for Toggle Buttons */
+    .year-buttons-container {
+        display: flex; /* Use flexbox to arrange buttons horizontally */
+        gap: 10px; /* Adjust the gap between buttons as needed */
+    }
+
+    .toggle-year {
+        background-color: #f0f0f0;
+        border: none;
+        cursor: pointer;
+        padding: 5px 10px;
+        outline: none;
+    }
+</style>
+
+
 <div class="year-section">
     <button class="toggle-year">2023</button>
 	<ol class="item-list">
