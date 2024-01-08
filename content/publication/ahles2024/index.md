@@ -18,6 +18,8 @@ draft: false
 links: 
 - name: Get PDF
   url: https://onlinelibrary.wiley.com/journal/14678276
+- name: Data and Codes
+  url: https://osf.io/krv8p/
 - name: Slides
   url: "AhlesEtAl2023_reduced.pdf"
 # Featured image
