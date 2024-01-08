@@ -36,10 +36,10 @@ projects: []
 publication_types:
 - '3'
 #abstract:
-publication: '(in progress)'
-abstract: Virtual assistants powered by artificial intelligence are present in virtually every aspect of daily life. Although they are computer algorithms, most are represented with humanized personal characteristics. We study whether assigning them a gender affects the propensity to delegate a search in two online experiments and compare it
+publication: 'MPRA paper No 119275'
+abstract: 'Virtual assistants powered by artificial intelligence are present in virtually every aspect of daily life. Although they are computer algorithms, most are represented with humanized personal characteristics. We study whether assigning them a gender affects the propensity to delegate a search in two online experiments and compare it
 to human counterparts of identical characteristics. Virtual assistants generally receive
 higher delegation than humans. Gender has differential effects in delegation rates impacting the user’s welfare. The results are entirely driven by female subjects. We find
 mild spillover effects, primarily decreasing selection of male humans after interacting
-with low-quality male virtual assistants.
+with low-quality male virtual assistants.'
 ---
