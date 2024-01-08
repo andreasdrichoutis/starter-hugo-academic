@@ -7,10 +7,11 @@ summary: ''
 authors:
 - admin
 - Marco A. Palma
+- Paul Feldman
 tags: []
 categories: []
-date: '2023'
-lastmod: 2022-06-07T22:50:56+02:00
+date: '2024'
+lastmod: 2024-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-07T20:50:55.237264Z'
+publishDate: '2024-01-01T20:50:55.237264Z'
 publication_types: 
 - '3'
 abstract: ''

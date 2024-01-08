@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Human - AI interaction in an authority delegation game'
+title: 'Humanization of Virtual Assistants and Delegation Choices'
 subtitle: ''
 summary: ''
 authors:
@@ -16,7 +16,7 @@ featured: false
 draft: false
 links: 
 - name: Get PDF
-  url: 
+  url: https://mpra.ub.uni-muenchen.de/119275/1/MPRA_paper_119275.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -37,4 +37,9 @@ publication_types:
 - '3'
 #abstract:
 publication: '(in progress)'
+abstract: Virtual assistants powered by artificial intelligence are present in virtually every aspect of daily life. Although they are computer algorithms, most are represented with humanized personal characteristics. We study whether assigning them a gender affects the propensity to delegate a search in two online experiments and compare it
+to human counterparts of identical characteristics. Virtual assistants generally receive
+higher delegation than humans. Gender has differential effects in delegation rates impacting the user’s welfare. The results are entirely driven by female subjects. We find
+mild spillover effects, primarily decreasing selection of male humans after interacting
+with low-quality male virtual assistants.
 ---
