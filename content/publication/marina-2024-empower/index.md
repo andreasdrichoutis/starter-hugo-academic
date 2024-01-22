@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Women's empowerment and intra-household bargaining power: A field experiment with agricultural households"
+title: "Women's empowerment and intra-household bargaining power"
 subtitle: ''
 summary: ''
 authors:
@@ -10,8 +10,8 @@ authors:
 - Rodolfo M. Nayga Jr
 tags: []
 categories: []
-date: '2021'
-lastmod: 2021-12-24T22:50:56+02:00
+date: '2024'
+lastmod: 2024-01-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-24T20:50:55.237264Z'
+publishDate: '2024-01-01T20:50:55.237264Z'
 publication_types: 
 - '3'
 abstract: ''
