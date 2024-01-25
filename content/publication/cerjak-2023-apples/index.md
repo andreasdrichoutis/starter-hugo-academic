@@ -37,5 +37,5 @@ projects: []
 publication_types:
 - '3'
 #abstract:
-publication: '(in progress)'
+publication: '(manuscript in preparation)'
 ---

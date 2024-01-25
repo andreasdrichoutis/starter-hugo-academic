@@ -36,5 +36,5 @@ publishDate: '2021-12-24T20:50:55.237264Z'
 publication_types:
 - '3'
 abstract: ''
-publication: (MPRA paper No 85635)
+publication: (MPRA paper No 85635, Revise & Resubmit)
 ---
