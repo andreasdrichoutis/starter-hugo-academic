@@ -16,7 +16,7 @@ featured: false
 draft: false
 links: 
 - name: Get PDF
-  url: 
+  url: https://ideas.repec.org/p/pra/mprapa/120095.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,6 +35,6 @@ projects: []
 publishDate: '2024-01-01T20:50:55.237264Z'
 publication_types: 
 - '3'
-abstract: ''
+abstract: 'We assess the effectiveness of the Abbreviated Women's Empowerment in Agriculture Index (A-WEAI) in predicting intra-household bargaining power. We conducted a lab-in-the-field experiment with 464 agricultural households, where spouses made decisions about money allocations. The experiment tested whether they would choose efficient overall household gains or favor individual monetary benefits. Our findings demonstrate that women's empowerment levels, as measured by the A-WEAI, are predictive of decisions in the allocation task. This supports the A-WEAI's utility in representing and predicting intra-household dynamics.'
 publication: '(manuscript in preparation)'
 ---
