@@ -19,6 +19,8 @@ links:
   url: https://doi.org/10.1016/j.jebo.2021.11.006
 - name: Data and Codes
   url: https://osf.io/4zw72/
+- name: Slides
+  url: "DrichoutisNaygaJEBO2022_reduced.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
