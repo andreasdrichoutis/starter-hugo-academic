@@ -18,6 +18,10 @@ draft: false
 links: 
 - name: Get PDF
   url: 
+- name: Data and Codes
+  url: 
+- name: Slides
+  url: "CerjakEtAl_apples_auctions.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
