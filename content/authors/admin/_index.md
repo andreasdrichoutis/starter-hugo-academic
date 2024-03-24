@@ -15,10 +15,11 @@ organizations:
   url: https://www.aua.gr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are focused on, but not limited to, the economics of nutrition/obesity, contingent valuation and experimental auctions methods to elicit consumers’ valuations, choice under risk, inter-temporal decision making and applied demand analysis. Most of my research applies experimental economics methods to answer questions relevant for agricultural economists and decision scientists.
+bio: His research interests are focused on decision making across a broad spectrum of topics pertinent to agricultural/food economics. His contributions are notably diversified spanning the area of contingent valuation and experimental auctions methods, choice under risk, inter-temporal decision making and applied demand analysis. Most of his research applies experimental economics methods to answer questions relevant to agricultural economists and decision scientists.
 
 # Interests to show in About widget
 interests:
+- Preference Elicitation
 - Experimental Auctions
 - Choice Under Risk 
 - Intertemporal Decision Making
