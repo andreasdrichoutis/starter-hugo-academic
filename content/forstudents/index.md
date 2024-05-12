@@ -94,6 +94,7 @@ title: Για φοιτητές...
 </script>
 <hr />
 
+<div class="year-section">
     <button class="toggle-year">2023</button>
 	<ol class="item-list">
 <li> Γριβοκωστοπούλου Χ. (2023) {{% staticref "ptixiakes/2023.Grivokostopoulou.pdf" "newtab" %}}Η χρωματική σύγκλιση και η οπτική ισορροπία στον σχεδιασμό συσκευασιών τροφίμων σε σχέση με τις επιλογές των καταναλωτών{{% /staticref %}}.  (Βαθμολόγηση: 10)</li>
