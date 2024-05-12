@@ -38,7 +38,7 @@ title: Για φοιτητές...
 
 - Συλλογή πρωτογενών δεδομένων: περιλαμβάνει την συλλογή δεδομένων μέσω δομημένου ερωτηματολογίου (κατά κύριο λόγο με προσωπικές συνεντεύξεις). Τα θέματα μπορεί να αφορούν οτιδήποτε εξηγεί/ερμηνεύει την συμπεριφορά των ατόμων σε σχέση με ένα ζήτημα αγρο-οικονομικής φύσεως.
 
-- Επεξεργασία δευτερογενών δεδομένων: επεξεργασία δεδομένων που έχει συλλέξει κάποιο ινστιτούτο/οργανισμός. Μερικά παραδείγματα τέτοιων διαθέσιμων δεδομένων είναι: [The Socio-Economic Panel](https://www.diw.de/en/diw_02.c.222516.en/data.html), [The Survey of Health, Ageing and Retirement in Europe](http://www.share-project.org/) [European Social Survey](http://www.europeansocialsurvey.org/), [National Health and Nutrition Examination Survey](http://www.cdc.gov/nchs/nhanes.htm), [Health Behavior in School-Aged Children](http://www.hbsc.org/index.aspx), [Έρευνα Χρήσης Χρόνου](http://www.statistics.gr/statistics/-/publication/SFA30/). Προφανώς μπορείτε να κάνετε την δική σας αναζήτηση και πρόταση.
+- Επεξεργασία δευτερογενών δεδομένων: επεξεργασία δεδομένων που έχει συλλέξει κάποιο ινστιτούτο/οργανισμός. Μερικά παραδείγματα τέτοιων διαθέσιμων δεδομένων είναι: [The Socio-Economic Panel](https://www.diw.de/en/diw_02.c.222516.en/data.html), [The Survey of Health, Ageing and Retirement in Europe](http://www.share-project.org/) [European Social Survey](http://www.europeansocialsurvey.org/), [National Health and Nutrition Examination Survey](http://www.cdc.gov/nchs/nhanes.htm), [Health Behavior in School-Aged Children](http://www.hbsc.org/index.aspx), [Έρευνα Χρήσης Χρόνου](http://www.statistics.gr/statistics/-/publication/SFA30/). Mπορείτε να κάνετε την δική σας αναζήτηση και πρόταση.
 
 
 <h3>Δεξιότητες που θα χρειαστείτε και δεξιότητες που θα αναπτύξετε:</h3>
@@ -52,14 +52,52 @@ title: Για φοιτητές...
 
 <h3><a name="thesis"></a>Πτυχιακές που έχουν ήδη εκπονηθεί ή είναι υπό εξέλιξη:</h3>
 <div class="year-section">
+	<button class="toggle-year">2024</button>
+	<ol class="item-list">
+<li>Πάτσου Α. (2024) Διερεύνηση προτιμήσεων και προθυμίας πληρωμής Ευρωπαίων καταναλωτών για premium συσκευασίες Ελληνικού εξαιρετικού παρθένου ελαιόλαδου. (Βαθμολόγηση: 10)</li>
+<li>Κορακίτη Μ. (2024) Επίδραση ανθρωπομορφικών παραγόντων στις στάσεις, συμπεριφορά και προθυμίας πληρωμής των καταναλωτών για προϊόντα τροφίμων. (Βαθμολόγηση: 10)</li>
+<li> Δημούλη Ι. (2024) Έρευνα συμπεριφοράς καταναλωτή σχετικά με βιώσιμες συσκευασίες ιχθύοπροϊόντων. (Βαθμολόγηση: 9) </li>
+</ol>
+</div>
+<!-- CSS Styles -->
+<style>
+    .item-list {
+        display: none;
+        padding-left: 20px;
+    }
+
+    .toggle-year {
+        background-color: #f0f0f0;
+        border: none;
+        cursor: pointer;
+        padding: 5px 10px;
+        margin-bottom: 5px;
+        outline: none;
+    }
+</style>
+<!-- JavaScript Functionality -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const toggleButtons = document.querySelectorAll(".toggle-year");
+
+        toggleButtons.forEach(function (button) {
+            button.addEventListener("click", function () {
+                const itemList = this.nextElementSibling; // Get the next sibling, which is the item list
+                if (itemList.style.display === "none" || itemList.style.display === "") {
+                    itemList.style.display = "block"; // Show the list items
+                } else {
+                    itemList.style.display = "none"; // Hide the list items
+                }
+            });
+        });
+    });
+</script>
+<hr />
+
     <button class="toggle-year">2023</button>
 	<ol class="item-list">
-<li>Καδδάς Α. (2023) Συμπεριφορά καταναλωτή ως προς εναλλακτικές συσκευασίες οίνου.</li>
-<li>Πάτσου Α. (2023) Διερεύνηση προτιμήσεων και προθυμίας πληρωμής Ευρωπαίων καταναλωτών για premium συσκευασίες Ελληνικού εξαιρετικού παρθένου ελαιόλαδου. </li>
-<li>Κορακίτη Μ. (2023) Επίδραση ανθρωπομορφικών παραγόντων στις στάσεις, συμπεριφορά και προθυμίας πληρωμής των καταναλωτών για προϊόντα τροφίμων.</li>
 <li> Γριβοκωστοπούλου Χ. (2023) {{% staticref "ptixiakes/2023.Grivokostopoulou.pdf" "newtab" %}}Η χρωματική σύγκλιση και η οπτική ισορροπία στον σχεδιασμό συσκευασιών τροφίμων σε σχέση με τις επιλογές των καταναλωτών{{% /staticref %}}.  (Βαθμολόγηση: 10)</li>
-<li> Δημούλη Ι. (2023) Έρευνα συμπεριφοράς καταναλωτή σχετικά με βιώσιμες συσκευασίες ιχθύοπροϊόντων </li>
-<li> Γιώτης Θ. (2023) {{% staticref "ptixiakes/2023.Giotis.pdf" "newtab" %}}Στάσεις, απόψεις και προθυμία πληρωμής των καταναλωτών για προσθήκη μικροφυκών στη παραγωγή τροφίμων{{% /staticref %}}.</li>
+<li> Γιώτης Θ. (2023) {{% staticref "ptixiakes/2023.Giotis.pdf" "newtab" %}}Στάσεις, απόψεις και προθυμία πληρωμής των καταναλωτών για προσθήκη μικροφυκών στη παραγωγή τροφίμων{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
 </ol>
 </div>
 <!-- CSS Styles -->
