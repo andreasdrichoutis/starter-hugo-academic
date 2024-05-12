@@ -95,6 +95,8 @@ title: Για φοιτητές...
 </ol>
 </div>
 
+<hr />
+
 <div class="year-section">
     <button class="toggle-year">2023</button>
 	<ol class="item-list">
@@ -102,6 +104,8 @@ title: Για φοιτητές...
 <li> Γιώτης Θ. (2023) {{% staticref "ptixiakes/2023.Giotis.pdf" "newtab" %}}Στάσεις, απόψεις και προθυμία πληρωμής των καταναλωτών για προσθήκη μικροφυκών στη παραγωγή τροφίμων{{% /staticref %}}. (Βαθμολόγηση: 10)</li>
 </ol>
 </div>
+
+<hr />
 
 <div class="year-section">
     <button class="toggle-year">2022</button>
