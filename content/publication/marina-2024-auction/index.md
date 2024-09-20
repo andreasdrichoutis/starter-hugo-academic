@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Story-telling in preference elicitation and cross-game learning"
+title: "Cross-game learning in homegrown preference elicitation"
 subtitle: ''
 summary: ''
 authors:
