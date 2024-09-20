@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Disentangling the effect of cognitive load in preference elicitation'
+title: 'Disentangling cognitive load pathways in preference elicitation'
 subtitle: ''
 summary: ''
 authors:
@@ -36,5 +36,5 @@ publishDate: '2022-06-07T20:50:55.237264Z'
 publication_types: 
 - '3'
 abstract: ''
-publication: '(manuscript in preparation)'
+publication: '(under review)'
 ---
