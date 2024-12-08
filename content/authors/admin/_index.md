@@ -7,7 +7,7 @@ superuser: true
 highlight_superuser: true.
 
 # Role/position/tagline
-role: Associate Professor of Consumer Behavior
+role: Professor of Consumer Behavior
 
 # Organizations/Affiliations to show in About widget
 organizations:
