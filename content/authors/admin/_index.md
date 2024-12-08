@@ -81,7 +81,7 @@ highlight_name: true
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 ---
 
-Andreas Drichoutis is an Associate Professor of Consumer Behavior. He received his undergraduate diploma in Agricultural Economics in 2002 and a postgraduate degree in Agribusiness Management (MBA) in 2004 from Agricultural University of Athens. In 2004, after spending a semester at Texas A&M University, he continued his studies in AUA pursuing a PhD which he completed in 2008.
+Andreas Drichoutis is a Professor of Consumer Behavior. He received his undergraduate diploma in Agricultural Economics in 2002 and a postgraduate degree in Agribusiness Management (MBA) in 2004 from Agricultural University of Athens. In 2004, after spending a semester at Texas A&M University, he continued his studies in AUA pursuing a PhD which he completed in 2008.
 
 Prior to joining the Department of Agricultural Economics at Agricultural University of Athens, he was a faculty member at the Department of Economics at University of Ioannina for 4 years. Based on IDEAS RePEc’s ranking list, he is **currently ranked at the [Top 10%](https://ideas.repec.org/top/top.person.alldetail10.html) of economists globally  and at the [Top 3%](https://ideas.repec.org/top/top.greece.html#authors10) of economists in Greece** (this ranking takes into account only publications in the last 10 years, for authors registered with the [RePEc Author Service](http://authors.repec.org/)).
 
