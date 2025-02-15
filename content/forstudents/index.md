@@ -94,6 +94,8 @@ title: Για φοιτητές...
 </ol>
 </div>
 
+<hr />
+
 <div class="year-section">
     <button class="toggle-year">2024</button>
 	<ol class="item-list">
