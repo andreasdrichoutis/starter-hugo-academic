@@ -14,7 +14,9 @@ date: '2006-01-01'
 lastmod: 2021-12-24T22:50:12+02:00
 featured: false
 draft: false
-
+links: 
+- name: Get PDF
+  url: https://www.researchgate.net/publication/228364127_Consumers'_use_of_nutritional_labels_A_review_of_research_studies_and_issues
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

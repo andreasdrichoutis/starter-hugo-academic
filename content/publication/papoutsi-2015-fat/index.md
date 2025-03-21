@@ -16,6 +16,9 @@ date: '2015-01-01'
 lastmod: 2021-12-24T22:50:35+02:00
 featured: false
 draft: false
+links: 
+- name: Get PDF
+  url: https://doi.org/10.1016/j.jebo.2015.06.011
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

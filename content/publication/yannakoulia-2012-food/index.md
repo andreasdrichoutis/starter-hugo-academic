@@ -21,9 +21,7 @@ featured: false
 draft: false
 links: 
 - name: Get PDF
-  url: 
-- name: Data and Codes
-  url: 
+  url: https://doi.org/10.1016/j.jneb.2010.02.005
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

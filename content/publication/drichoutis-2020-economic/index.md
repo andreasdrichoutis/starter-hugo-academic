@@ -15,7 +15,7 @@ featured: false
 draft: false
 links:
 - name: Get PDF
-  url: http://track.smtpsendemail.com/9032119/c?p=ZgniuS34lQB_g66shooQjG29hQOQuQOxAD19hxIedIwxR-TcSR6Wvp_8QijW8VSZR6sMrDq96ew7q3cVUB2shb1Cgxr3sPSE-on2xWFz2WP6r_VGrOizcn0vnNfBNpb2Rp8awt2cukWu1yaOdc2pdgj2Wq7G_MJJ2gXm8jjFJ26rUQomEGkhULzVbBuBQHLKWAo0Q4mOJIlcKS1Altd7FpVBu_9RhLFhtMT0XlkgAwNhPrlRxmxIz18gFP2G5-B6
+  url: https://doi.org/10.1093/ej/ueaa052
 - name: Data and Codes
   url: https://osf.io/6yvbf/
 - name: Slides

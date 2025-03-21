@@ -13,7 +13,9 @@ date: '2015-01-01'
 lastmod: 2021-12-24T22:50:36+02:00
 featured: false
 draft: false
-
+links: 
+- name: Get PDF
+  url: https://doi.org/10.4284/0038-4038-2013.246
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
