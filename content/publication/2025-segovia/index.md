@@ -22,6 +22,7 @@ links:
   url: https://osf.io/vra65/
 - name: Listen to Podcast
   url: "/audio/2025-Segovia et al-Visual Formats in Risk Preference Elicitation.wav"
+  target: "_blank"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
