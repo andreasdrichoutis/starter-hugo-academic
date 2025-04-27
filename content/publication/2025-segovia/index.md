@@ -17,11 +17,11 @@ featured: false
 draft: false
 links: 
 - name: Get PDF
-  url: https://link.springer.com/journal/11166/volumes-and-issues
+  url: https://link.springer.com/article/10.1007/s11166-025-09455-9
 - name: Data and Codes
   url: https://osf.io/vra65/
 - name: Listen to Podcast
-  url: "/audio/2025-Segovia et al-Visual Formats in Risk Preference Elicitation.wav"
+  url: "2025-Segovia et al-Visual Formats in Risk Preference Elicitation.wav"
   target: "_blank"
 
 # Featured image
