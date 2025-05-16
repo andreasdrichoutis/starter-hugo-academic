@@ -23,6 +23,9 @@ links:
 - name: Listen to Podcast
   url: "2025-Segovia et al-Visual Formats in Risk Preference Elicitation.wav"
   target: "_blank"
+- name: LinkedIn post
+  url: https://www.linkedin.com/posts/andreas-drichoutis-2954752_visual-formats-in-risk-preference-elicitation-activity-7321427712772845568-bV1H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsqlEBoF_xgHc2eVCBGQpzy5IlfEmmEnY
+  target: "_blank"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
