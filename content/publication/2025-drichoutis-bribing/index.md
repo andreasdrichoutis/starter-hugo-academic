@@ -22,7 +22,7 @@ links:
   url: https://osf.io/7A5QR/
   target: "_blank"
 - name: Listen to Podcast
-  url: "2025_Queue-Jumping_Counter-Bribery_and_Cultural_Differences.wav"
+  url: https://notebooklm.google.com/notebook/77c59f4b-baa2-4de9-bf65-abab28ebf31b/audio
   target: "_blank"
 - name: LinkedIn post
   url: https://www.linkedin.com/posts/andreas-drichoutis-2954752_jumping-the-queue-an-experimental-study-activity-7329034758833725440-Fz2d?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsqlEBoF_xgHc2eVCBGQpzy5IlfEmmEnY  
