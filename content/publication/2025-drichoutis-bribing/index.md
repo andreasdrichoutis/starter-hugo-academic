@@ -5,9 +5,9 @@ title: 'Jumping the queue: An experimental study on cultural differences in brib
 subtitle: ''
 summary: ''
 authors:
-- admin
-- Veronika Grimm
 - Alexandros Karakostas
+- Veronika Grimm
+- admin
 tags: []
 categories: []
 date: '2025'
