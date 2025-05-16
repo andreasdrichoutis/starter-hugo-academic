@@ -18,8 +18,10 @@ draft: false
 links: 
 - name: Get PDF
   url: https://link.springer.com/article/10.1007/s11166-025-09455-9
+  target: "_blank"
 - name: Data and Codes
   url: https://osf.io/vra65/
+  target: "_blank"
 - name: Listen to Podcast
   url: "2025-Segovia et al-Visual Formats in Risk Preference Elicitation.wav"
   target: "_blank"

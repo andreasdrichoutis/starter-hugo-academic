@@ -17,9 +17,10 @@ draft: false
 links: 
 - name: Get PDF
   url: https://doi.org/10.1007/s11238-024-09989-5
+  target: "_blank"
 - name: Data and Codes
   url: https://osf.io/7nxqv/
-
+  target: "_blank"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
