@@ -19,7 +19,7 @@ links:
 - name: Get PDF
   url: https://academic.oup.com/erae
 - name: Data and Codes
-  url: ""
+  url: "https://osf.io/kmj82/"
 - name: Slides
   url: "CerjakEtAl_apples_auctions.pdf"
 - name: Listen to Podcast
