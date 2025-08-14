@@ -18,11 +18,14 @@ links:
 - name: Get PDF
   url: https://doi.org/10.1002/agr.70018
   target: "_blank"
+- name: Data
+  url: https://osf.io/b5kd6/
+  target: "_blank"
 - name: Listen to Podcast
   url: "Beyond_the_Brew__How_Local_Identity_and_Label_Language_Shape_Your_Craft_Beer_Choices.m4a"
   target: "_blank"
 - name: LinkedIn post
-  url: https://www.linkedin.com/
+  url: https://www.linkedin.com/posts/andreas-drichoutis-2954752_consumer-preferences-for-craft-beer-the-activity-7361732634244268032-tuN9?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAABsqlEBoF_xgHc2eVCBGQpzy5IlfEmmEnY
   target: "_blank"
 
 # Featured image
