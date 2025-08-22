@@ -17,7 +17,7 @@ featured: false
 draft: false
 links: 
 - name: Get PDF
-  url: https://academic.oup.com/erae
+  url: https://doi.org/10.1093/erae/jbaf039
 - name: Data and Codes
   url: "https://osf.io/kmj82/"
 - name: Slides
