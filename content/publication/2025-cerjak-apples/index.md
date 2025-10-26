@@ -26,7 +26,7 @@ links:
   url: "Organic_vs_local_apples_ERAE.m4a"
   target: "_blank"
 - name: LinkedIn post
-  url: "" 
+  url: "https://www.linkedin.com/posts/andreas-drichoutis-2954752_experimentaleconomics-agriculturaleconomics-activity-7388258088421646336-6TaX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsqlEBoF_xgHc2eVCBGQpzy5IlfEmmEnY" 
   target: "_blank"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
