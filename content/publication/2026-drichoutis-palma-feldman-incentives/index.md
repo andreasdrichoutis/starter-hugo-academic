@@ -16,16 +16,16 @@ featured: false
 draft: false
 links: 
 - name: Get PDF
-  url: https://ideas.repec.org/p/pra/mprapa/120898.html
+  url: https://www.cambridge.org/core/journals/experimental-economics
 - name: Data and Codes
-  url: 
+  url: https://doi.org/10.17605/OSF.IO/2QPNW
 - name: Slides
   url: "incentives.pdf"
 - name: Listen to Podcast
-  url: "2025-Segovia et al-Visual Formats in Risk Preference Elicitation.wav"
+  url: "namehere.wav"
   target: "_blank"
 - name: LinkedIn post
-  url: https://www.linkedin.com/posts/andreas-drichoutis-2954752_visual-formats-in-risk-preference-elicitation-activity-7321427712772845568-bV1H?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABsqlEBoF_xgHc2eVCBGQpzy5IlfEmmEnY
+  url: https://www.linkedin.com/in/andreas-drichoutis-2954752/
   target: "_blank"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
