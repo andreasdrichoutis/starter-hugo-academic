@@ -16,7 +16,7 @@ featured: false
 draft: false
 links: 
 - name: Get PDF
-  url: https://www.cambridge.org/core/journals/experimental-economics
+  url: https://dx.doi.org/10.1017/eec.2026.10042
 - name: Data and Codes
   url: https://doi.org/10.17605/OSF.IO/2QPNW
 - name: Slides
