@@ -20,7 +20,7 @@ links:
 - name: Data and Codes
   url: 
 - name: Slides
-  url: 
+  url: "climate_action_and_HORP.pdf"
 - name: Listen to Podcast
   url: 
   target: "_blank"
