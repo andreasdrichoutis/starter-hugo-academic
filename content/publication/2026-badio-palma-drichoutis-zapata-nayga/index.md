@@ -9,7 +9,7 @@ authors:
 - Marco A. Palma
 - admin
 - Samuel Zapata
-- Rodolfo M. Nayga Jr.
+- Rodolfo M. Nayga Jr
 tags: []
 categories: []
 date: '2026'
