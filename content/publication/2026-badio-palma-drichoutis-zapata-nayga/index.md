@@ -21,6 +21,8 @@ links:
   url: 
 - name: Data and Codes
   url: 
+- name: Pre-registration
+  url: https://doi.org/10.1257/rct.14656-1.0
 - name: Slides
   url: 
 - name: Listen to Podcast
