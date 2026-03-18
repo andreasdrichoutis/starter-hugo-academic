@@ -19,6 +19,8 @@ links:
   url: https://dx.doi.org/10.1017/eec.2026.10042
 - name: Data and Codes
   url: https://doi.org/10.17605/OSF.IO/2QPNW
+- name: Pre-registration
+  url: https://doi.org/10.1257/rct.9687-5.0
 - name: Slides
   url: "incentives.pdf"
 - name: Listen to Podcast

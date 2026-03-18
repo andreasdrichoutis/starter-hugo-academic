@@ -19,6 +19,8 @@ links:
   url: 
 - name: Data and Codes
   url: 
+- name: Pre-registration
+  url: https://doi.org/10.1257/rct.15642-3.0
 - name: Slides
   url: "climate_action_and_HORP.pdf"
 - name: Listen to Podcast
