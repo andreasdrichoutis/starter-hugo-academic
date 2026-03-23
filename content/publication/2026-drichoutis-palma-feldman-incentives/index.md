@@ -22,9 +22,9 @@ links:
 - name: Pre-registration
   url: https://doi.org/10.1257/rct.9687-5.0
 - name: Slides
-  url: "incentives.pdf"
+  url: "ESA_Lyon_Drichoutis.pdf"
 - name: Listen to Podcast
-  url: "namehere.wav"
+  url: "Why_people_misprice_their_own_money.m4a"
   target: "_blank"
 - name: LinkedIn post
   url: https://www.linkedin.com/in/andreas-drichoutis-2954752/
