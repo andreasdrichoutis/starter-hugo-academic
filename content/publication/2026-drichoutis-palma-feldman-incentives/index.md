@@ -27,7 +27,7 @@ links:
   url: "Why_people_misprice_their_own_money.m4a"
   target: "_blank"
 - name: LinkedIn post
-  url: https://www.linkedin.com/in/andreas-drichoutis-2954752/
+  url: https://www.linkedin.com/posts/andreas-drichoutis-2954752_first-published-paper-of-the-year-and-activity-7441774946424446978-twJg
   target: "_blank"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
