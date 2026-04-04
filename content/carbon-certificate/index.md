@@ -4,7 +4,7 @@ draft: false
 build:
   list: never
 ---
-# Certificate of Carbon Donation
+
 
 This page displays the certificate confirming the retirement of carbon allowances associated with your participation in teh study.
 
