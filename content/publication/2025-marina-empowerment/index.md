@@ -25,7 +25,7 @@ links:
   url: "Marina_Andreas_Rudy_RODE_2025.m4a"
   target: "_blank"
 - name: LinkedIn post
-  url: "" 
+  url: "https://www.linkedin.com/posts/andreas-drichoutis-2954752_osf-activity-7391430996044353536-5rpZ" 
   target: "_blank"  
 
 # Featured image
