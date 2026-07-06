@@ -17,7 +17,8 @@ tags:
 - open science
 - data and code
 - crowd science
-categories: []
+categories: 
+- Collaborative work
 date: '2023-12-22T12:00:00+00:00'
 publishdate: '2023-12-22T00:00:00+00:00'
 lastmod: 2026-07-06T10:00:00+03:00
