@@ -10,4 +10,4 @@ This page displays the certificate confirming the retirement of carbon allowance
 
 You can download the certificate here:
 
-<!--[Download the carbon retirement certificate](/carbon-certificate/certificate.pdf)-->
+[Download the carbon retirement certificate](/carbon-certificate/Carbon_Pricing_Certificate_2026.pdf)
