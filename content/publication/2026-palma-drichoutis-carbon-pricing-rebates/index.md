@@ -46,5 +46,5 @@ publishDate: '2026-09-01T20:50:55.237264Z'
 publication_types: 
 - '2'
 abstract: 'An online incentivized experiment examines consumption and carbon-emission tradeoffs under guaranteed and probabilistic cash rebates. Guaranteed rebates reduce purchases more than 10%, 25%, and 50% rebate lotteries. The 50% rebate does not reproduce the full behavioral effect of the guaranteed rebate, but substantially reduces expected rebate expenditure while generating carbon-offset gains. The results provide a proof of concept for an effectiveness--expenditure trade-off in carbon-pricing rebate design.}'
-publication: 'Nature Climate Change (forthcoming)'
+publication: '**Nature Climate Change** (forthcoming)'
 ---
