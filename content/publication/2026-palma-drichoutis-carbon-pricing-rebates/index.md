@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Low Odds, High Hopes: Supporting Carbon Pricing with Cash Rebates'
+title: 'Supporting Carbon Pricing Markets with Probabilistic Cash Rebates'
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2026'
-lastmod: 2026-02-01T22:50:56+02:00
+lastmod: 2026-09-01T22:50:56+02:00
 featured: false
 draft: false
 links: 
@@ -19,7 +19,7 @@ links:
 - name: Data and Codes
   url: 
 - name: Pre-registration
-  url: https://doi.org/10.1257/rct.17601-1.0
+  url: 
 - name: Slides
   url: 
 - name: Listen to Podcast
@@ -42,9 +42,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2026-02-01T20:50:55.237264Z'
+publishDate: '2026-09-01T20:50:55.237264Z'
 publication_types: 
-- '3'
-#abstract: 'Carbon pricing markets can significantly reduce CO\textsubscript{2} emissions if they garner enough public support. Cash rebates increase acceptance yet are fiscally costly. Using an online incentivized experiment, we show that participants reduce consumption and emissions when offered a cash rebate, with effects statistically identical to a 10% lottery-based rebate. Probabilistic rebates thus replicate full-rebate outcomes while conserving funds, offering a cost-efficient approach to enhance public support for carbon pricing.'
-publication: 'Working paper'
+- '2'
+abstract: 'An online incentivized experiment examines consumption and carbon-emission tradeoffs under guaranteed and probabilistic cash rebates. Guaranteed rebates reduce purchases more than 10%, 25%, and 50% rebate lotteries. The 50% rebate does not reproduce the full behavioral effect of the guaranteed rebate, but substantially reduces expected rebate expenditure while generating carbon-offset gains. The results provide a proof of concept for an effectiveness--expenditure trade-off in carbon-pricing rebate design.}'
+publication: 'Nature Climate Change (forthcoming)'
 ---
