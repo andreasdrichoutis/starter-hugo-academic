@@ -1,0 +1,29 @@
+.compact-pub-authors {
+  margin-bottom: 0.35rem;
+}
+
+.compact-pub-authors-short {
+  display: inline;
+}
+
+.compact-pub-authors-details {
+  margin-top: 0.25rem;
+  font-size: 0.9rem;
+}
+
+.compact-pub-authors-details summary {
+  display: inline-block;
+  cursor: pointer;
+  color: var(--primary);
+  font-weight: 500;
+}
+
+.compact-pub-authors-details summary:hover {
+  text-decoration: underline;
+}
+
+.compact-pub-authors-full {
+  margin-top: 0.5rem;
+  line-height: 1.55;
+  font-size: 0.9rem;
+}

@@ -1,0 +1,105 @@
+{{/* Display author list. */}}
+
+{{- $taxonomy := "authors" }}
+
+{{ if .Param $taxonomy }}
+
+  {{/* =========================================================
+       SPECIAL DISPLAY FOR VERY LARGE AUTHOR LISTS
+       Activated only when compact_authors: true
+       ========================================================= */}}
+
+  {{ if .Params.compact_authors }}
+
+    <span class="compact-authors-short">
+      {{ .Params.compact_authors_text | safeHTML }}
+    </span>
+
+    <span class="compact-authors-full" style="display:none;">
+      {{ range $index, $value := (.GetTerms $taxonomy) }}
+
+        {{- /* Highlight the author's name? */ -}}
+        {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+
+        {{- if gt $index 0 }}, {{ end -}}
+
+        <span {{ if $highlight_name }}class="author-highlighted"{{ end }}>
+          {{- if .RelPermalink -}}
+            <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          {{- else -}}
+            {{ .LinkTitle }}
+          {{- end -}}
+        </span>
+
+        {{- if isset $.Params "author_notes" -}}
+          {{- with (index $.Params.author_notes $index) -}}
+            <i class="author-notes fas fa-info-circle"
+               data-toggle="tooltip"
+               title="{{ . }}"></i>
+          {{- end -}}
+        {{- end -}}
+
+      {{- end -}}
+    </span>
+
+    <button
+      type="button"
+      aria-expanded="false"
+      style="border:0; background:none; padding:0; margin-left:0.35rem; color:var(--primary); cursor:pointer; font-size:0.9em; text-decoration:underline;"
+      onclick="
+        var full = this.previousElementSibling;
+        var short = full.previousElementSibling;
+        var expanded = this.getAttribute('aria-expanded') === 'true';
+
+        if (expanded) {
+          full.style.display = 'none';
+          short.style.display = '';
+          this.setAttribute('aria-expanded', 'false');
+          this.textContent = 'Show all {{ len .Params.authors }} authors';
+        } else {
+          short.style.display = 'none';
+          full.style.display = '';
+          this.setAttribute('aria-expanded', 'true');
+          this.textContent = 'Show fewer authors';
+        }
+      ">
+      Show all {{ len .Params.authors }} authors
+    </button>
+
+  {{/* =========================================================
+       NORMAL WOWCHEMY BEHAVIOUR FOR EVERY OTHER PUBLICATION
+       This is the original code from your Wowchemy version.
+       ========================================================= */}}
+
+  {{ else }}
+
+    {{ range $index, $value := (.GetTerms $taxonomy) }}
+
+      {{- /* Highlight the author's name? */ -}}
+      {{- $highlight_name := .Page.Params.highlight_name | default false -}}
+
+      {{- if gt $index 0 }}, {{ end -}}
+
+      <span {{ if $highlight_name }}class="author-highlighted"{{ end }}>
+        {{/* Effectively check the page's `_build` option as `_build`
+             is not exposed in Hugo's Page object. */}}
+        {{- if .RelPermalink -}}
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        {{- else -}}
+          {{ .LinkTitle }}
+        {{- end -}}
+      </span>
+
+      {{- if isset $.Params "author_notes" -}}
+        {{- with (index $.Params.author_notes $index) -}}
+          <i class="author-notes fas fa-info-circle"
+             data-toggle="tooltip"
+             title="{{ . }}"></i>
+        {{- end -}}
+      {{- end -}}
+
+    {{- end -}}
+
+  {{ end }}
+
+{{- end -}}
