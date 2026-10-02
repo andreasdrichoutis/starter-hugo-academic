@@ -115,7 +115,7 @@ authors:
 - Aitor Marcos
 
 compact_authors: true
-compact_authors_text: 'Rene Schwaiger, Irene Mussio, Kanchan Mukherjee, …, Marco Palma, <span class="author-highlighted">Andreas Drichoutis</span>, …, Aitor Marcos'
+compact_authors_text: 'Rene Schwaiger, Irene Mussio, Kanchan Mukherjee, …, Marco A. Palma, <span class="author-highlighted">Andreas Drichoutis</span>, …, Aitor Marcos'
 
 tags: []
 categories: []
