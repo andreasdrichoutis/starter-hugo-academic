@@ -19,8 +19,8 @@ links:
   url: https://doi.org/10.1111/rode.70077
 - name: Data and Codes
   url: https://doi.org/10.17605/OSF.IO/QZYTG
-- name: Slides
-  url: 
+#- name: Slides
+#  url: 
 - name: Listen to Podcast
   url: "Marina_Andreas_Rudy_RODE_2025.m4a"
   target: "_blank"

@@ -126,16 +126,16 @@ draft: false
 
 links:
 - name: Get PDF
-  url:
-- name: Data and Codes
-  url:
-- name: Pre-registration
-  url:
-- name: Slides
-  url:
-- name: LinkedIn post
-  url:
-  target: "_blank"
+  url: "https://www.nature.com/nathumbehav/research-articles"
+#- name: Data and Codes
+#  url:
+#- name: Pre-registration
+#  url:
+#- name: Slides
+#  url:
+#- name: LinkedIn post
+#  url:
+#  target: "_blank"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

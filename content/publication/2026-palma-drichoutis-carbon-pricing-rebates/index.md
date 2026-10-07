@@ -15,19 +15,24 @@ featured: false
 draft: false
 links: 
 - name: Get PDF
-  url: 
+  url: "https://www.nature.com/nclimate/volumes"
 - name: Data and Codes
-  url: 
-- name: Pre-registration
-  url: 
+  url: "https://doi.org/10.5281/zenodo.22233795"
+- name: Pre-registration (Wave 1)
+  url: "https://www.socialscienceregistry.org/trials/15002"
+  target: "_blank"
+- name: Pre-registration (Wave 2)
+  url: "https://www.socialscienceregistry.org/trials/17601"
+  target: "_blank"
 - name: Slides
-  url: 
-- name: Listen to Podcast
-  url: "audiofilehere.m4a"
-  target: "_blank"
-- name: LinkedIn post
-  url: 
-  target: "_blank"
+  url: "carbonpricingslides.pdf"
+  target: "_blank"  
+#- name: Listen to Podcast
+#  url: "audiofilehere.m4a"
+#  target: "_blank"
+#- name: LinkedIn post
+#  url: 
+#  target: "_blank"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.

@@ -1,0 +1,1 @@
+& "C:\Tools\hugo-0.89.4\hugo.exe" server -D
