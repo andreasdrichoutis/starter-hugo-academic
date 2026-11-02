@@ -51,13 +51,13 @@ main:
     url: experimentsathens
     weight: 65
 
-  - name: Link and resources
-    url: linksresources
-    weight: 70
+  # - name: Link and resources
+  #   url: linksresources
+  #   weight: 70
 
-  - name: Για φοιτητές
-    url: forstudents
-    weight: 80
+  # - name: Για φοιτητές
+  #   url: forstudents
+  #   weight: 80
 
   - name: Contact
     url: '#contact'
